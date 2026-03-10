@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;700&display=swap');
+.data-noticia {
+    font-size: 0.75rem;
+    color: #888;
+    margin-bottom: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    color: #1a1a1a;
+}
+
+/* Cabeçalho Profissional QG NEWS */
+header {
+    background-color: #ffffff;
+    border-top: 6px solid #d32f2f;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.logo-text {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 2.8rem; /* Aumentamos um pouco o tamanho já que o nome é curto */
+    margin: 0;
+    color: #1a1a1a;
+    line-height: 0.9;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+
+.logo-text span {
+    color: #d32f2f; /* NEWS em Vermelho para destaque */
+}
+
+.tagline {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 5px; /* Mais espaço entre as letras para elegância */
+    color: #888;
+    margin: 4px 0 0 0;
+}
+
+/* Efeito compacto ao rolar a página */
+header.rolagem {
+    padding: 10px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+header.rolagem .logo-text {
+    font-size: 2rem;
+}
+/* Grade de Notícias (Grid Profissional) */
+#lista-noticias {
+    max-width: 1200px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 25px;
+    padding: 0 20px;
+}
+
+.card-noticia {
+    background: #fff;
+    border-radius: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 4px solid transparent;
+    transition: 0.3s;
+    
+    /* O Segredo da Performance: Só renderiza se estiver na tela */
+    content-visibility: auto; 
+    contain-intrinsic-size: 400px; /* Altura aproximada do card para evitar "pulos" */
+}
+.foto-noticia {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+.conteudo p {
+    font-size: 0.95rem;
+    color: #444;
+    margin-bottom: 20px;
+    flex-grow: 1;
+    
+    /* Trava o texto em 3 linhas. O resto vira "..." */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3; /* <-- Esta é a linha padrão que o VS Code pediu! */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.rodape-profissional {
+    background-color: #1a1a1a; /* Preto elegante */
+    color: #ffffff;
+    padding: 40px 20px;
+    margin-top: 50px;
+    text-align: center;
+    border-top: 5px solid #d32f2f; /* Detalhe em vermelho */
+}
+
+.footer-conteudo p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+    color: #bbb;
+}
+
+.autor {
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+/* Estilo da Barra de Pesquisa */
+.area-pesquisa {
+    max-width: 1200px;
+    margin: 30px auto 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#campo-pesquisa {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px 25px;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    border: 2px solid #e0e0e0;
+    border-radius: 30px; /* Bordas arredondadas para um visual moderno */
+    outline: none;
+    transition: 0.3s;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+#campo-pesquisa:focus {
+    border-color: #d32f2f; /* Fica vermelho quando clica para digitar */
+    box-shadow: 0 4px 12px rgba(211, 47, 47, 0.15);
+}
+.data-noticia {
+    font-size: 0.75rem;
+    color: #d32f2f;
+    margin-bottom: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
