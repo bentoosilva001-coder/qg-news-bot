@@ -1,8 +1,10 @@
 import requests
 import json
 import time
+import os
 
-CHAVE_API = '490d15f4796e472c8b8839608a4b684e'
+# O CÓDIGO AGORA PUXA A CHAVE DIRETO DO COFRE BLINDADO DO GITHUB
+CHAVE_API = os.environ.get('CHAVE_API_NOTICIAS')
 
 def buscar_cobertura_global():
     noticias_reais = []
@@ -21,7 +23,6 @@ def buscar_cobertura_global():
                 
             for artigo in artigos:
                 if artigo.get('title') and artigo.get('description') and artigo.get('urlToImage') and "[Removed]" not in artigo['title']:
-                    
                     titulos_salvos = [n['title'] for n in noticias_reais]
                     if artigo['title'] not in titulos_salvos:
                         noticias_reais.append({
@@ -29,7 +30,7 @@ def buscar_cobertura_global():
                             "body": artigo['description'],
                             "url": artigo['url'],
                             "image": artigo['urlToImage'],
-                            "data": artigo.get('publishedAt') # Aqui ele pega a data e hora da notícia!
+                            "data": artigo.get('publishedAt')
                         })
                         
             with open('dados.json', 'w', encoding='utf-8') as arquivo:
