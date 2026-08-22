@@ -1,5 +1,383 @@
 [
     {
+        "title": "As notícias das 7h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2481/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-21T06:19:39Z"
+    },
+    {
+        "title": "Burlas financeiras: os sinais de alerta",
+        "body": "Todos os dias milhares de pessoas recebem mensagens como esta: \"Invista hoje e duplique o seu dinheiro em apenas três meses\". Cuidado, tem todo o aspecto de burla.",
+        "url": "https://observador.pt/programas/boa-moeda-ma-moeda/burlas-financeiras-os-sinais-de-alerta/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
+        "data": "2026-08-21T06:01:33Z"
+    },
+    {
+        "title": "IA mais poderosa do mundo já existe mas a Anthropic recusa-se a lançá-la ao público",
+        "body": "O avanço da inteligência artificial continua a surpreender e a levantar sérias preocupações no setor tecnológico. A Anthropic desenvolveu um novo modelo que supera as capacidades do conhecido Mythos 5, mas tomou a decisão...",
+        "url": "https://pplware.sapo.pt/inteligencia-artificial/ia-mais-poderosa-do-mundo-ja-existe-mas-a-anthropic-recusa-se-a-lanca-la-ao-publico/",
+        "image": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Claude-Mythos-cybersecurity-AI.jpg",
+        "data": "2026-08-21T06:00:50Z"
+    },
+    {
+        "title": "Atenção, Palhinha! Benfica está a um passo (90') da Europa",
+        "body": "Vitória frente ao Aarhus consumada logo na primeira parte (3-1). SC Braga leva vantagem de dois golos para visita ao Áustria Viena. Ainda, Carlos Alcaraz de regresso aos courts e aponta ao US Open.",
+        "url": "https://observador.pt/programas/vamos-a-bola/atencao-palhinha-benfica-esta-a-um-passo-90-da-europa/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
+        "data": "2026-08-21T05:53:57Z"
+    },
+    {
+        "title": "Gallardo, Luís Castro, Tite ou Roger? Veja quem o Botafogo avalia",
+        "body": "O Botafogo iniciou a busca por um novo treinador após a saída de Franclim Carvalho. O presidente ...",
+        "url": "https://www.terra.com.br/esportes/futebol/gallardo-luis-castro-tite-ou-roger-veja-quem-o-botafogo-avalia,29733757a5b98dc7e4831bfea333d700w6gu72v9.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1140045810-2026-botafogo-presidente-joao-paulo-magalhaes-novo-tecnico.jpg",
+        "data": "2026-08-21T05:41:11Z"
+    },
+    {
+        "title": "Premiê do Japão planeja reforma ministerial em setembro para consolidar base de poder",
+        "body": "Crescem as especulações de que a primeira-ministra do Japão, Sanae Takaichi, realizará sua primeira reforma ministerial na segunda quinzena de setembro, em um esforço para fortalecer sua base de apoio dentro e fora do Partido Liberal Democrata (PLD), a legend…",
+        "url": "https://valor.globo.com/mundo/noticia/2026/08/21/premi-do-japo-planeja-reforma-ministerial-em-setembro-para-consolidar-base-de-poder.ghtml",
+        "image": "https://s2-valor.glbimg.com/aFsM7nKyMaTDXWg0OwLfvbbWG8s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/X/K/TUczEgTlGoHCItT5vPdw/2026-05-25t123840z-1843713503-rc2cglanh406-rtrmadp-3-japan-economy-budget.jpg",
+        "data": "2026-08-21T05:35:23Z"
+    },
+    {
+        "title": "Argentina. Milei culpa aborto pela queda de natalidade",
+        "body": "O La Nacion destaca as declarações do presidente argentino que volta a culpar a IGV pela queda de natalidade. Por cá, o Expresso escreve sobre a crescente obsessão dos jovens por cirurgias estéticas.",
+        "url": "https://observador.pt/programas/conferencia-de-imprensa/argentina-milei-culpa-aborto-pela-queda-de-natalidade/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg",
+        "data": "2026-08-21T05:34:50Z"
+    },
+    {
+        "title": "Recompras de títulos do Tesouro dos EUA soam alerta para novas intervenções no iene",
+        "body": "A decisão inesperada dos Estados Unidos de ampliar suas operações de recompra de títulos deixou o mercado atento a possíveis novas medidas de apoio ao iene japonês.\n\nO Departamento do Tesouro americano anunciou na quarta-feira que iria, no mínimo, dobrar as r…",
+        "url": "https://valor.globo.com/financas/noticia/2026/08/21/recompras-de-ttulos-do-tesouro-dos-eua-soam-alerta-para-novas-intervenes-no-iene.ghtml",
+        "image": "https://s2-valor.glbimg.com/SwDyx58v-LqGc5tm17whV_H85yo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/Q/T/0BwDs3Rsm3wnbsIdOeGw/458300244.jpg",
+        "data": "2026-08-21T05:19:37Z"
+    },
+    {
+        "title": "Nissan e Honda se unem a startups de direção autônoma para enfrentar EUA e China",
+        "body": "Montadoras japonesas estão em uma corrida para desenvolver veículos autônomos impulsionados por inteligência artificial (IA), estabelecendo parcerias com startups e outras empresas na tentativa de alcançar as líderes dos Estados Unidos e da China.\n\nNo Centro …",
+        "url": "https://valor.globo.com/empresas/noticia/2026/08/21/nissan-e-honda-se-unem-a-startups-de-direo-autnoma-para-enfrentar-eua-e-china.ghtml",
+        "image": "https://s2-valor.glbimg.com/Oz53_Y4uQOZ4zTFQ0SP6GOuRYgM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/Q/R/glk1R8RemUAaWm2Snr7Q/whatsapp-image-2024-12-23-at-14.42.07.jpeg",
+        "data": "2026-08-21T05:18:04Z"
+    },
+    {
+        "title": "As notícias das 6h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2470/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-21T05:16:10Z"
+    },
+    {
+        "title": "Quem é a joia do Santos que despertou o interesse de Benfica e Shakhtar? Veja",
+        "body": "Meia do Sub-20 do Santos está na mira de Benfica e Shakhtar, enquanto clube tenta avançar pela renovação do contrato",
+        "url": "https://www.terra.com.br/esportes/santos/quem-e-a-joia-do-santos-que-despertou-o-interesse-de-benfica-e-shakhtar-veja,b80cba8debe3953b663269b0d20fe3a18xx5jj0u.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1816826997-2026-santos-benfica-shakhtar-donetsk-vinicius-fabri-contrato-multa-rescisoria.jpg",
+        "data": "2026-08-21T05:11:02Z"
+    },
+    {
+        "title": "BH tem viola, filmes de terror e festival de tropeiro no fim de semana",
+        "body": "Fim de semana tem filmes de terror, música mineira de raiz e gastronomia, além de festivais para quem quiser pegar a estrada",
+        "url": "https://www.metropoles.com/minas-gerais/bh-tem-viola-filmes-de-terror-e-festival-de-tropeiro-no-fim-de-semana",
+        "image": "https://i.metroimg.com/u-XuHtrs4bbNfRzGUngKS7i7pNtN_e2yxkxh1h4VKXw/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/metadinha-2x-1787150649195.jpg",
+        "data": "2026-08-21T05:10:36Z"
+    },
+    {
+        "title": "SP tem festival sertanejo, espetáculo para bebês e 470 anos da Mooca",
+        "body": "Programação do final de semana em SP está recheado de opções musicais como o festival sertanejo Histórias, o SP Gastronomia e o C6 no Rock",
+        "url": "https://www.metropoles.com/sao-paulo/festival-sertanejo-aniver-mooca",
+        "image": "https://i.metroimg.com/TDW-Hxp07Ub0MrlYfPkb34ccN58774HnFsfzswcn94c/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/sp-tem-festival-sertanejo-espetaculo-para-bebes-e-470-anos-da-mooca.jpg",
+        "data": "2026-08-21T05:10:35Z"
+    },
+    {
+        "title": "Metrópoles Game Festival começa nesta sexta (21/8). Veja programação",
+        "body": "O primeiro dia do Metrópoles Game Festival reúne competições, Meet & Greet e muito mais. Evento segue até domingo (23/8)",
+        "url": "https://www.metropoles.com/entretenimento/metropoles-game-festival-comeca-nesta-sexta-21-8-veja-programacao",
+        "image": "https://i.metroimg.com/SesPzWdFVBuacXzj1lCvGz1ZOm6yx2YZBGgrUTZHYrg/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/07/gettyimages-2261820423.jpg",
+        "data": "2026-08-21T05:00:38Z"
+    },
+    {
+        "title": "Em MG, Lula visita obra e tenta impulsionar Patrus ao governo",
+        "body": "Essa é a primeira visita de Lula a Minas após a confirmação de Patrus Ananias como candidato do partido ao governo Executivo",
+        "url": "https://www.metropoles.com/minas-gerais/em-mg-lula-visita-obra-e-tenta-impulsionar-patrus-ao-governo",
+        "image": "https://i.metroimg.com/97OODKLrJctmpRi_0TsxvgxS4UTAm3Fo3n6QaLTXTWw/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/lula-nao-inviabilize-e-as-cunhas.jpg",
+        "data": "2026-08-21T05:00:30Z"
+    },
+    {
+        "title": "União Europeia determina novos destinos para roupas não vendidas",
+        "body": "Até o momento, a medida atinge somente empresas de grande porte, porém, a ideia é que seja também estendida às médias até 2030",
+        "url": "https://www.metropoles.com/colunas/ilca-maria-estevao/uniao-europeia-determina-novos-destinos-para-roupas-nao-vendidas",
+        "image": "https://i.metroimg.com/h3f0pGqy_7cWIwq-dXIr7OXZD6yD_PFhrBjdDiD2F80/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/02/descarte-lixo-roupas-fast-fashion-moda-gettyimages-186967548.jpg",
+        "data": "2026-08-21T05:00:01Z"
+    },
+    {
+        "title": "China reduz exportações de metais ópticos e aeroespaciais essenciais para Taiwan",
+        "body": "A China está restringindo ou atrasando as exportações de materiais ópticos e aeroespaciais fundamentais para Taiwan, criando gargalos problemáticos na cadeia de suprimentos para indústrias dessa importante economia tecnológica asiática, apurou o “Nikkei Asia”…",
+        "url": "https://valor.globo.com/mundo/noticia/2026/08/21/china-reduz-exportaes-de-metais-pticos-e-aeroespaciais-essenciais-para-taiwan.ghtml",
+        "image": "https://s2-valor.glbimg.com/mV7SS1fOVwOG1ln7hah4sP4Xr58=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/e/QfdCAzRDKrXvIdSPHfYQ/foto15int-101-taiwan-a18.jpg",
+        "data": "2026-08-21T04:35:48Z"
+    },
+    {
+        "title": "A cura para o cancro está nas vacinas?",
+        "body": "Há resultados promissores num estudo com vacinas para combater o melanoma, o mais agressivo cancro da pele. Será este o caminho para a cura? Recebemos os investigadores Bruno Sarmento e Paula Videira.",
+        "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-cura-para-o-cancro-esta-nas-vacinas/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg",
+        "data": "2026-08-21T04:03:41Z"
+    },
+    {
+        "title": "Renan Santos é de direita ou esquerda?",
+        "body": "Renan Santos, candidato a presidente pelo Missão (Missão), é um dos nomes da direita nas eleições 2026. \nSantos utiliza suas redes sociais para impulsionar suas opiniões, postando vídeos e cortes sobre diversos assuntos. Entre eles, há um vídeo em que o candi…",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/21/renan-santos-e-de-direita-ou-esquerda.ghtml",
+        "image": "https://s2-valor.glbimg.com/SPG3qQLxxi_kql9etZLaagNVQUc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/y/t/ALej5vTEA5oYyA6TCIdw/2026-08-18t200448z-1643727967-rc231nareifm-rtrmadp-3-brazil-election-renan.jpg",
+        "data": "2026-08-21T04:00:27Z"
+    },
+    {
+        "title": "Fernando Diniz esclarece situação de Yuri Alberto e André Luiz no Corinthians",
+        "body": "A classificação do Corinthians para as quartas de final da Copa Libertadores trouxe mais do que ...",
+        "url": "https://www.terra.com.br/esportes/corinthians/fernando-diniz-esclarece-situacao-de-yuri-alberto-e-andre-luiz-no-corinthians,90b01cfc7dc207fd2e7e868344b90f6fvlt44maa.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/769208721-fernando-diniz.jpg",
+        "data": "2026-08-21T03:54:33Z"
+    },
+    {
+        "title": "De volta nas quartas? Diniz fala sobre retorno de Yuri Alberto",
+        "body": "Corinthians derrotou o Rosario Central e garantiu uma vaga na próxima fase da Libertadores na noite desta quinta-feira (20), na Neo Química Arena",
+        "url": "https://esporte.ig.com.br/futebol/2026-08-20/de-volta-quartas-libertadores-diniz-retorno-yuri-alberto.html",
+        "image": "https://i0.statig.com.br/bancodeimagens/4o/nt/ah/4ontahn7dk4wg5tv7ov0lag8h.jpg",
+        "data": "2026-08-21T03:52:13Z"
+    },
+    {
+        "title": "Menor preço histórico! Jogo SAROS para PS5 aparece 38% mais barato na Amazon",
+        "body": "O novo exclusivo da Housemarque despenca de preço e entra na lista dos achados do momento no PS5. Confira o valor atual e garanta o seu antes que a oferta acabe!\nSaros em oferta na Amazon!",
+        "url": "https://br.ign.com/descontos/155492/menor-preco-historico-jogo-saros-para-ps5-aparece-38-mais-barato-na-amazon",
+        "image": "https://sm.ign.com/t/ign_br/photo/default/saros-preview-blog-1774264687795_sf8g.1200.jpg",
+        "data": "2026-08-21T03:41:37Z"
+    },
+    {
+        "title": "Diniz destaca Memphis na 'vitória épica' sobre o Rosario Central: 'Enxerga o mundo diferente'",
+        "body": "Fernando Diniz não escondeu a satisfação por ter contado com Memphis Depay na vitória sobre o ...",
+        "url": "https://www.terra.com.br/esportes/corinthians/diniz-destaca-memphis-na-vitoria-epica-sobre-o-rosario-central-enxerga-o-mundo-diferente,4f13c1b058e10e3325d2f38a5c2b2321uzc5oddr.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1204201110-pqfd7zjryfgbblis3y5horjuwy.jpg",
+        "data": "2026-08-21T03:38:15Z"
+    },
+    {
+        "title": "Xabi Alonso bate martelo sobre Enzo Fernández: \"Jogador do Chelsea\"",
+        "body": "Volante argentino esteve perto de sair do clube, mas deve permanecer em Londres neste início de temporada",
+        "url": "https://www.terra.com.br/esportes/futebol/internacional/equipes/chelsea/xabi-alonso-bate-martelo-sobre-enzo-fernandez-jogador-do-chelsea,422fdbf0dd2ea2cb960e51f08dfdacc8qz6f29le.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1563829995-chelsea-fc-v-paris-saint-germain-fc-uefa-champions-league-2025-26-round-of-16-second-legeasy-resizecom-610x400.jpg",
+        "data": "2026-08-21T03:23:23Z"
+    },
+    {
+        "title": "Loja oficial da Magalu deixa o Monitor Gamer AOC Agon G50 27\" de 144Hz com preço imbatível no Aliexpress",
+        "body": "Monitor gamer AOC Agon com 144Hz, IPS e G-Sync sai com desconto na loja oficial da Magalu no Aliexpress. Confira as especificações e garanta o seu!\nMonitor Gamer é na loja da Magalu no Aliexpress!",
+        "url": "https://br.ign.com/descontos/155490/loja-oficial-da-magalu-deixa-o-monitor-gamer-aoc-agon-g50-27-de-144hz-com-preco-imbativel-no-aliexpr",
+        "image": "https://sm.ign.com/t/ign_br/screenshot/default/monitor-gamer-aoc-agon-g50-24g50f-qtzh_354639_ug5v.1200.jpg",
+        "data": "2026-08-21T03:19:17Z"
+    },
+    {
+        "title": "As notícias das 4h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2377/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-21T03:11:47Z"
+    },
+    {
+        "title": "Memphis Depay anota assistência em retorno aos campos pelo Corinthians",
+        "body": "A última vez que o atacante havia jogado pelo clube paulista foi no dia 27 de maio, quando foi superado em 2 x 0 pelo Platense",
+        "url": "https://www.metropoles.com/esportes/memphis-depay-anota-assistencia-em-retorno-aos-campos-pelo-corinthians",
+        "image": "https://i.metroimg.com/vW8dURoOiRq7qs5ylxRZKSUQ4ndmjU7fc7jm4y389dc/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/depay-assistencia.jpg",
+        "data": "2026-08-21T03:06:34Z"
+    },
+    {
+        "title": "Pai que achou bilhetes de filha morta há 3 anos é pastor e lançou livro de poesias escritas pela menina: 'Não se resume à tragédia'",
+        "body": "Pai que achou bilhetes de filha morta há 3 anos é pastor e lançou livro de poesias escritas pela menina\nAcervo pessoal\nSérgio Fermino, o pai que encontrou bilhetes da filha morta há três anos e seis meses após ser atingida pela queda de árvore em Campinas (SP…",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/pai-achou-bilhetes-filha-morta-pastor-lancou-livro-poesias-escritas-menina.ghtml",
+        "image": "https://s2-g1.glbimg.com/fzbvlKbpHcrY-TsdTM4KizHuxX8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/2iT6LBRVAne3DJQe1DPQ/americana.jpg",
+        "data": "2026-08-21T03:00:15Z"
+    },
+    {
+        "title": "Com 10, Corinthians de Memphis despacha Canalhas com gol de Bidon",
+        "body": "Fiel dá show na apinha Neo Química Arena e empurra o time do povo para a justa e épica classificação às quartas de final da Libertadores da América",
+        "url": "https://esporte.ig.com.br/colunas/vitaoraiz/2026-08-20/com-10--corinthians-de-memphis-despacha-canalhas-com-gol-de-bidon.html",
+        "image": "https://i0.statig.com.br/bancodeimagens/ej/js/tq/ejjstqlf6ail3oh13j71ly29a.jpg",
+        "data": "2026-08-21T03:00:03Z"
+    },
+    {
+        "title": "Memphis muda o jogo em vitória que classifica Corinthians às quartas da Libertadores",
+        "body": "Com assistência do holandês, Breno Bidon marca contra o Rosario Central; próximo adversário será o Estudiantes",
+        "url": "https://www.terra.com.br/esportes/corinthians/memphis-muda-o-jogo-em-vitoria-que-classifica-corinthians-as-quartas-da-libertadores,b65a922ecea69459aab16ea74ab0ba715cpuou70.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/472676018-n45x6ifykbclpckbtyigxttdzy.jpeg",
+        "data": "2026-08-21T02:37:00Z"
+    },
+    {
+        "title": "VÍDEO: avião que decolou com destino a Natal retorna a Campinas após bater contra pássaro na viagem",
+        "body": "Avião que decolou com destino a Natal retorna a Campinas após bater contra pássaro\nUm avião da companhia Azul, que decolou em Campinas (SP) com destino a Natal (RN), precisou retornar ao Aeroporto de Viracopos após bater contra um pássaro durante uma viagem, …",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/video-aviao-decolou-destino-natal-retorna-campinas-bater-passaro-viagem.ghtml",
+        "image": "https://s2-g1.glbimg.com/22p_QLq2Auh0Ey-d65lYLpMB9h0=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/S/k5ATrTRcCxcAVc1UxFCA/americana-1-.jpg",
+        "data": "2026-08-21T02:33:22Z"
+    },
+    {
+        "title": "Confira o Olhar Digital News na íntegra (20/08/2026)",
+        "body": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje!\nO post Confira o Olhar Digital News na íntegra (20/08/2026) apareceu primeiro em Olhar Digital.",
+        "url": "https://olhardigital.com.br/2026/08/20/videos/confira-o-olhar-digital-news-na-integra-20-08-2026/",
+        "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Thumb-Marisa-6-1-1024x576.png",
+        "data": "2026-08-21T02:22:04Z"
+    },
+    {
+        "title": "Cuca comemora vaga do Santos e exalta defesa: \"Foi perfeita\"",
+        "body": "Treinador alvinegro valoriza garra dos jovens no empate sem gols, descarta priorizar torneios e projeta maratona decisiva",
+        "url": "https://www.terra.com.br/esportes/santos/cuca-comemora-vaga-do-santos-e-exalta-defesa-foi-perfeita,70062cea35facc58389971b466e096b6188g5v5d.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1799242876-55398707623021841e8eao-610x400.jpg",
+        "data": "2026-08-21T02:14:50Z"
+    },
+    {
+        "title": "3h. Incêndio de Arouca está novamente ativo",
+        "body": "Incêndio é combatido por quase 300 operacionais e perto de uma centena de meios terrestres. Ainda, no Peru um terramoto de magnitude 6,7 atingiu a cordilheira dos Andes.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2412/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-21T02:13:45Z"
+    },
+    {
+        "title": "Governo Trump amplia cerco a Cuba e sancionam 12 alvos sob acusação de “marxismo”",
+        "body": "O governo de Donald Trump abriu uma nova frente de pressão econômica contra Cuba sob a acusação de que a ilha estaria tentando “exportar marxismo”. As medidas foram anunciadas nesta quinta-feira (20) pelo secretário de Estado Marco Rubio. Em publicação no X, …",
+        "url": "https://www.diariodocentrodomundo.com.br/governo-trump-amplia-cerco-a-cuba-e-sancionam-12-alvos-sob-acusacao-de-marxismo/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/55440071288_a11147bc71_k.jpg",
+        "data": "2026-08-21T02:08:12Z"
+    },
+    {
+        "title": "77 Seguros e Bambam: uma parceria marcada por reputação, relacionamento e espírito de campeão*",
+        "body": "Empresa que vem ganhando destaque no mercado de Seguro Auto aposta em uma das maiores personalidades do marketing brasileiro para ampliar sua conexão com o público",
+        "url": "https://www.terra.com.br/diversao/77-seguros-e-bambam-uma-parceria-marcada-por-reputacao-relacionamento-e-espirito-de-campeao,7a687510452835b7c82f5ffee14ddeb2g79rewd0.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/446706933-77-seguros-e-bambam.jpg",
+        "data": "2026-08-21T02:04:49Z"
+    },
+    {
+        "title": "Lulinha processa Flávio Bolsonaro e Zema por vídeos que o associam a fraudes no INSS",
+        "body": "O empresário Fábio Luís Lula da Silva, o Lulinha, acionou a Justiça de São Paulo contra Flávio Bolsonaro (PL) e Romeu Zema (Novo), candidatos à Presidência, por vídeos que, segundo sua defesa, usam inteligência artificial, animações e montagens para associá-l…",
+        "url": "https://www.diariodocentrodomundo.com.br/lulinha-processa-flavio-bolsonaro-e-zema-por-videos-que-o-associam-a-fraudes-no-inss/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/05/lulinha-600x360-1.webp",
+        "data": "2026-08-21T02:04:21Z"
+    },
+    {
+        "title": "Quando as emoções sentam à mesa? Como ter uma liderança emocional nos dias de hoje",
+        "body": "A psicóloga Ana Paula Guimarães tem 15 anos de experiência na área de Recursos Humanos e explica que o tema está diretamente relacionado à forma como as pessoas tomam decisões e enfrentam os desafios cotidianos",
+        "url": "https://www.terra.com.br/vida-e-estilo/saude/quando-as-emocoes-sentam-a-mesa-como-ter-uma-lideranca-emocional-nos-dias-de-hoje,1b59126c0fab3cc62cd76791649f84d4sjs7w8hq.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/358486242-ana-paula-guimaraes.jpg",
+        "data": "2026-08-21T02:01:58Z"
+    },
+    {
+        "title": "Belo Monte reduz vazão por causa do El Niño; entenda",
+        "body": "Medida adotada no reservatório intermediário da hidrelétrica no rio Xingu, no Pará, é preventiva diante dos possíveis efeitos do fenômeno",
+        "url": "https://www.terra.com.br/economia/belo-monte-reduz-vazao-por-causa-do-el-nino-entenda,cf8b1a5ad0a4ff048dca32307b31c8efxo6h6wxh.html",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "data": "2026-08-21T02:00:52Z"
+    },
+    {
+        "title": "Folga no jogo do Brasil? Veja o que diz a lei sobre a Copa do Mundo Feminina 2027",
+        "body": "Lei sancionada para a realização do Mundial no país permite mudanças no expediente e até feriado nacional nos dias de jogos da Seleção; entenda como funcionará",
+        "url": "https://www.terra.com.br/esportes/brasil/folga-no-jogo-do-brasil-veja-o-que-diz-a-lei-sobre-a-copa-do-mundo-feminina-2027,81321eb4463b415bc3e77219cf1b4104b4odl5cz.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1934245002-53564802093d7a5a820f0o-2048x1365.jpg",
+        "data": "2026-08-21T01:58:58Z"
+    },
+    {
+        "title": "Presidente do PT, Edinho Silva lança disputa a deputado federal",
+        "body": "Com presenças das candidatas ao Senado, Marina Silva e Simone Tebet, dirigente petista oficializa candidatura à Câmara dos Deputados, em Araraquara",
+        "url": "https://ultimosegundo.ig.com.br/brasil/2026-08-20/presidente-do-pt--edinho-silva-lanca-candidatura-a-deputado-federal.html",
+        "image": "https://i0.statig.com.br/bancodeimagens/2r/26/ho/2r26hoybder0s0b2vmw2gfs3s.jpg",
+        "data": "2026-08-21T01:57:14Z"
+    },
+    {
+        "title": "Começa a Liga do Catar, com 17 brasileiros. E dois deles já marcaram",
+        "body": "Ex-Timão Gabriel Pereira e ex-Internacional Bruno Tabata marcam nos jogos de abertura. Al Sadd, de Firmino, atual campeão, é favorito",
+        "url": "https://www.terra.com.br/esportes/catar/comeca-a-liga-do-catar-com-17-brasileiros-e-dois-deles-ja-marcaram,7fccaba0f0a7cadb1b9d89031eb3dec66t96p8dn.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1362386140-77984233518619810276008746922073747624025276n-610x400.jpg",
+        "data": "2026-08-21T01:53:28Z"
+    },
+    {
+        "title": "Milei relaciona aborto legal à queda de natalidade na Argentina: ‘Loucura’",
+        "body": "Durante um discurso, o presidente disse que o país 'não alcança uma taxa de crescimento populacional e de natalidade que permita a reposição da população'",
+        "url": "https://veja.abril.com.br/mundo/milei-relaciona-aborto-legal-a-queda-de-natalidade-na-argentina-loucura/",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2256948360.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+        "data": "2026-08-21T01:53:09Z"
+    },
+    {
+        "title": "Neutrogena se pronuncia após morte de Hayden Panettiere: 'Nós a fizemos se sentir desamparada'",
+        "body": "Marca se manifestou após críticas e anunciou investimento para ampliar o acesso de mulheres a cuidados contra depressão pós-parto",
+        "url": "https://www.terra.com.br/diversao/gente/neutrogena-se-pronuncia-apos-morte-de-hayden-panettiere-nos-a-fizemos-se-sentir-desamparada,fa1e971f2e274f646e914b323248849a6ib9hmi3.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1913438064-dklwxoy2zfdwfnp22cl5ynwpuu.jfif",
+        "data": "2026-08-21T01:47:29Z"
+    },
+    {
+        "title": "Saiba quem são os candidatos ao governo e ao Senado no Pará",
+        "body": "Ao todo, seis candidatos concorrem ao governo e 12 ao Senado. O primeiro turno está marcado para 4 de outubro",
+        "url": "https://www.metropoles.com/brasil/saiba-quem-sao-os-candidatos-ao-governo-e-ao-senado-no-para",
+        "image": "https://i.metroimg.com/I__dqhotsW0k1nICi0FL1G5fWi_MKcypB7t--Sf87sw/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/sem-titulo-17-jpg.jpeg",
+        "data": "2026-08-21T01:47:22Z"
+    },
+    {
+        "title": "\"Ziquinho\": jovem torcedor do Flamengo conta reações após viralizar",
+        "body": "Caio Coelho, de 12 anos, chama atenção nas redes sociais após aparecer na transmissão do jogo contra Cruzeiro pela Libertadores",
+        "url": "https://www.terra.com.br/esportes/flamengo/ziquinho-jovem-torcedor-do-flamengo-conta-reacoes-apos-viralizar,859bdc5ea1fcb27d831ebbe75f8227ecng5qa8u1.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/646025336-hqij6guxgaabv5feasy-resizecom-610x400.jpg",
+        "data": "2026-08-21T01:45:16Z"
+    },
+    {
+        "title": "Coreia do Norte dispara mísseis após Trump reduzir exercícios militares",
+        "body": "Coreia do Norte fez os lançamentos no mar um dia após EUA e Coreia do Sul anunciarem a redução de exercícios militares conjuntos",
+        "url": "https://www.terra.com.br/noticias/mundo/coreia-do-norte-dispara-misseis-apos-trump-reduzir-exercicios-militares,0261273d978c79c7b1b3068b679b1356v3c4xi80.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/gettyimages-2157769927-ubgvnd65ufz8.jpg",
+        "data": "2026-08-21T01:42:08Z"
+    },
+    {
+        "title": "PF aponta Lulinha como beneficiário indireto de negociações de lobista com empresários, diz revista",
+        "body": "Filho do presidente Lula é citado em documento da Polícia Federal como alguém que é preservado nas negociações junto ao governo do pai, mas que atua \"quando precisa\"",
+        "url": "https://www.terra.com.br/noticias/brasil/politica/pf-aponta-lulinha-como-beneficario-indireto-de-negociacoes-de-lobista-com-empresarios-diz-revista,d9a6d69a551b1c53cfe3ed7892c66609puln95ux.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/1426483048-y3y73epqg5k2xixalviybuotne.jpg",
+        "data": "2026-08-21T01:40:49Z"
+    },
+    {
+        "title": "5 tendências para a Primavera de 2026: já encontrei na Zara e funcionam em diferentes estilos e corpos",
+        "body": "A temporada mais florida do ano está chegando e estas peças da Zara antecipam as tendências que prometem dominar os looks brasileiros",
+        "url": " https://www.purepeople.com.br/noticia/vestido-calca-boho-chic-5-tendencias-para-a-primavera-de-2026-ja-encontrei-na-zara-e-funcionam-em-diferentes-estilos-e-corpos_a423328/1 ",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/2060318652-199e45fcd07fd2c3-1400x823-1.png",
+        "data": "2026-08-21T01:22:57Z"
+    },
+    {
+        "title": "Cuca festeja classificação do Santos no Equador: 'Estamos a cinco jogos do prêmio maior'",
+        "body": "A classificação para as quartas de final da Copa Sul-Americana obtida pelo Santos, em Ambato, no ...",
+        "url": "https://www.terra.com.br/esportes/santos/cuca-festeja-classificacao-do-santos-no-equador-estamos-a-cinco-jogos-do-premio-maior,b7183c4a5d4a18a03b7058348c954bd36d325hzv.html",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "data": "2026-08-21T01:22:15Z"
+    },
+    {
+        "title": "Data center previsto para 2027 em Campinas promete ter 40% da atual capacidade do Brasil",
+        "body": "Data center previsto para 2027 em Campinas promete ter 40% da atual capacidade do Brasil\nUm data center anunciado nesta quinta-feira (20) promete ter 40% da atual capacidade de Tecnologia de Informação (TI) comissionada do Brasil. A estrutura, cuja primeira f…",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/data-center-previsto-campinas-promete-atual-capacidade-brasil.ghtml",
+        "image": "https://s2-g1.glbimg.com/9VXTfcLt--rr8TlwvpRebWfUSSg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/i6YEcSQGCHAHUtmpIbfg/whatsapp-image-2026-08-20-at-19.35.56.jpeg",
+        "data": "2026-08-21T01:17:10Z"
+    },
+    {
+        "title": "As notícias das 2h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2386/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-21T01:12:48Z"
+    },
+    {
+        "title": "Renan Santos diz que Lula e Flávio estão ‘completamente queimados’ por escândalos de corrupção",
+        "body": "Em agenda pelo Nordeste, o candidato à Presidência pelo Missão, Renan Santos, afirmou que os adversários Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) estão \"completamente queimados\" por escândalos de corrupção. Segundo ele, os dois primeiros colocad…",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/20/renan-santos-diz-que-lula-e-flavio-estao-completamente-queimados-por-escandalos-de-corrupcao.ghtml",
+        "image": "https://s2-valor.glbimg.com/SPG3qQLxxi_kql9etZLaagNVQUc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/y/t/ALej5vTEA5oYyA6TCIdw/2026-08-18t200448z-1643727967-rc231nareifm-rtrmadp-3-brazil-election-renan.jpg",
+        "data": "2026-08-21T01:11:20Z"
+    },
+    {
+        "title": "Maracanã terá abertura e Neo Química Arena bate recorde de jogos da Copa do Mundo Feminina",
+        "body": "Fifa detalhou a programação do Mundial de 2027, que terá 10 partidas na casa do Corinthians e decisões importantes em Rio de Janeiro e São Paulo",
+        "url": "https://www.terra.com.br/esportes/futebol/futebol-feminino/maracana-tera-abertura-e-neo-quimica-arena-bate-recorde-de-jogos-da-copa-do-mundo-feminina,c163d2ca5c0717976e69b9e8dd3dfebbnb4qa31k.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/21/930773532-conmebol-announces-brazil-will-host-copa-america-2021-2048x1351.jpg",
+        "data": "2026-08-21T01:11:00Z"
+    },
+    {
         "title": "Empresas são condenadas por tentar direcionar votos dos empregados em 2022",
         "body": "O assédio eleitoral se caracteriza por coação, intimidação, ameaça, humilhação ou constrangimento associados a uma eleição. O objetivo é influenciar ou manipular o voto ou a manifestação política no local de trabalho ou em situações relacionadas a ele. Essa d…",
         "url": "https://conjur.com.br/2026-ago-20/coacao-psicologica-e-ameacas-no-emprego-caracterizaram-assedio-eleitoral/",
@@ -292,320 +670,5 @@
         "url": "https://www.terra.com.br/esportes/cruzeiro/a-declaracao-de-pedrinho-bh-envolvendo-o-atletico-mg,9d8cf8171ab53ea6ce0f66cf39c25fecvbmbqpat.html",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/1101894309-pedrinho-bh.jpg",
         "data": "2026-08-20T23:14:14Z"
-    },
-    {
-        "title": "Quando o poder deixa de votar",
-        "body": "A inteligência artificial modifica a forma como decidimos. A computação quântica poderá modificar a forma como confiamos.",
-        "url": "https://observador.pt/opiniao/quando-o-poder-deixa-de-votar/",
-        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A9%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F11%2F25125246%2Ffmoreira.jpg",
-        "data": "2026-08-20T23:13:09Z"
-    },
-    {
-        "title": "A reabilitação moral do nazismo",
-        "body": "Agora, na mais sinistra das ironias, Hitler agiu bem, positivamente bem, ao matar os judeus. Os genocidas de Gaza deveriam ter sido vítimas totais do genocídio originário.",
-        "url": "https://observador.pt/opiniao/a-reabilitacao-moral-do-nazismo/",
-        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A1523%3A1523%3Anowe%3A13%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F11%2F30132209%2F20201130-131011.jpg",
-        "data": "2026-08-20T23:11:49Z"
-    },
-    {
-        "title": "Real Bétis e Real Sociedad ficam frente a frente em estreia",
-        "body": "Vindo de boas temporadas, equipes de Manuel Pellegrini e Pellegrino Matarazzo iniciam suas jornadas na La Liga",
-        "url": "https://esporte.ig.com.br/jogoajogo/2026-08-20/real-betis-real-sociedad-la-liga-2-rodada-prognostico-onde-assistir.html",
-        "image": "https://i0.statig.com.br/bancodeimagens/d0/r9/po/d0r9po5wft4ujlljhzy4590o6.jpg",
-        "data": "2026-08-20T23:09:55Z"
-    },
-    {
-        "title": "PF recupera mensagem em que Lulinha teria dito que lobista 'cuidava de suas finanças', diz revista",
-        "body": "Fábio Luís Lula da Silva, o Lulinha, filho do presidente Luiz Inácio Lula da Silva\nReprodução/Instagram - Fábio Lula\nO empresário Fábio Luís Lula da Silva, conhecido como Lulinha, afirmou em mensagem no WhatsApp recuperada pela Polícia Federal (PF) que a lobi…",
-        "url": "https://valor.globo.com/politica/noticia/2026/08/20/pf-recupera-mensagem-em-que-lulinha-teria-dito-que-lobista-cuidava-de-suas-financas-diz-revista.ghtml",
-        "image": "https://s2-valor.glbimg.com/M033aL67_ia2cZycoirvaLMNhEM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/0/s/vrSfMxSx2R6tA0l5BbxA/115962933-lulinha-filho-do-presidente-luis-inacio-e-investigado-por-trafico-de-influencia.-foto-repr.jpg",
-        "data": "2026-08-20T23:07:10Z"
-    },
-    {
-        "title": "Estrangulou os três filhos…sem arma",
-        "body": "É um crime de bradar aos céus, pior do que crianças a matar os colegas, porque a mãe é a pessoa mais responsável e inclinada para proteger as suas crianças. Então como há tanta gente a defendê-la?",
-        "url": "https://observador.pt/opiniao/estrangulou-os-tres-filhossem-arma/",
-        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F09%2F14180702%2Fdsc_9605-scaled_467x467_acf_cropped.jpg",
-        "data": "2026-08-20T23:03:05Z"
-    },
-    {
-        "title": "O desastre anunciado que não aconteceu",
-        "body": "Há poucas semanas, dizia-se que a correção digital dos exames nacionais ia comprometer o futuro académico de uma geração. As candidaturas ao ensino superior acabaram de bater um recorde de 30 anos",
-        "url": "https://observador.pt/opiniao/o-desastre-anunciado-que-nao-aconteceu/",
-        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F29140748%2Fandre-png.jpg",
-        "data": "2026-08-20T23:02:03Z"
-    },
-    {
-        "title": "Quanto Pesam os Nossos Dados? A Física de Landauer",
-        "body": "Talvez o verdadeiro legado de Landauer seja obrigar-nos a aceitar uma ideia muito mais desconfortável, a de que a informação não é apenas algo que descreve o universo.",
-        "url": "https://observador.pt/opiniao/quanto-pesam-os-nossos-dados-a-fisica-de-landauer-e-uma-fascinante-hipotese-sobre-o-universo/",
-        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A918%3A918%3Anowe%3A0%3A30%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F25160423%2Fnuno-nabais-freire-png.jpg",
-        "data": "2026-08-20T23:01:13Z"
-    },
-    {
-        "title": "SLB x AFG.\"Penalty e expulsão\" perdoados ao Aarhus",
-        "body": "Nota 5, positiva mínima, para Marc Guida, árbitro italiano que apitou a vitória do Benfica sobre o Aarhus. \"Houve um erro grave na área\", mas também houve boa intervenção do VAR no penalty do Benfica.",
-        "url": "https://observador.pt/programas/sem-falta/slb-x-afg-penalty-e-expulsao-perdoados-ao-aarhus/",
-        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
-        "data": "2026-08-20T22:57:55Z"
-    },
-    {
-        "title": "Portugal condena Israel pela expansão de colonatos",
-        "body": "MNE critica avanço das 1.200 habitações do megaprojeto E1, que ameaça dividir a Cisjordânia. Reino Unido, França, Alemanha e mais países também apelaram a Israel para parar.",
-        "url": "https://observador.pt/2026/08/20/medio-oriente-portugal-condena-israel-pela-expansao-de-colonatos-na-cisjordania/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F19202529%2F47632521.jpg?layer=obstop:T",
-        "data": "2026-08-20T22:56:08Z"
-    },
-    {
-        "title": "Tanto faz roubar com a mão esquerda ou direita, é ladrão, diz Caiado",
-        "body": "O candidato do PSD à presidência da República, Ronaldo Caiado, afirmou que \"tanto faz roubar com ...",
-        "url": "https://www.terra.com.br/noticias/brasil/politica/tanto-faz-roubar-com-a-mao-esquerda-ou-direita-e-ladrao-diz-caiado,80a39efdb2e8af22065350f2f759f2fdkby0jyi5.html",
-        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "data": "2026-08-20T22:52:52Z"
-    },
-    {
-        "title": "NTGroup não participou nas reuniões finais sobre fragatas",
-        "body": "A empresa NTGroup, que serviu de intermediária na compra das fragatas italianas, desmente as acusações de André Ventura e Pedro Frazão, negando a sua presença nas reuniões finais.",
-        "url": "https://observador.pt/2026/08/20/ntgroup-diz-que-nao-participou-nas-reunioes-finais-sobre-compra-de-fragatas/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F11%2F12193337%2F34161762.jpg?layer=obstop:T",
-        "data": "2026-08-20T22:52:17Z"
-    },
-    {
-        "title": "Brasil anuncia pacote de R$ 2,5 bilhões para IA e supercomputador no RN",
-        "body": "Pacote inclui parceria com Huawei e desenvolvimento de chips; equipamento terá mais de 50 mil núcleos de processamento e será usado por universidades, empresas, centros de pesquisa e governo\nO post Brasil anuncia pacote de R$ 2,5 bilhões para IA e supercomput…",
-        "url": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/brasil-anuncia-pacote-de-r-2-5-bilhoes-para-ia-e-supercomputador-no-rn/",
-        "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/brasil-inteligncia-artificial-scaled.jpg",
-        "data": "2026-08-20T22:52:12Z"
-    },
-    {
-        "title": "Governo trabalha hoje para proteger filho de Lula, afirma Caiado",
-        "body": "Ronaldo Caiado, candidato do PSD a presidente\nDivulgação\nO candidato do PSD à Presidência da República, Ronaldo Caiado, acusou nesta quinta-feira (20) a máquina pública do governo federal de trabalhar atualmente para proteger o filho do presidente Luiz Inácio…",
-        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/20/governo-trabalha-hoje-para-proteger-filho-de-lula-afirma-caiado.ghtml",
-        "image": "https://s2-valor.glbimg.com/RhzzIy3evnkcpf8vouU-5Bt0aRY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/s/0/8OhHjXRDSzfkyqAYRegA/foto18pol-121-caiado-a10.jpg",
-        "data": "2026-08-20T22:51:37Z"
-    },
-    {
-        "title": "Supremo reinicia julgamento sobre poder de requisição do MPU aos governos",
-        "body": "O Plenário do Supremo Tribunal Federal reiniciou, nesta quinta-feira (20/8), o julgamento que discute se o Ministério Público da União (que inclui os MPs Federal, Militar, do Trabalho e do Distrito Federal) pode requisitar à administração pública informações,…",
-        "url": "https://conjur.com.br/2026-ago-20/stf-reinicia-julgamento-sobre-poder-de-requisicao-do-mpu-aos-governos/",
-        "image": "https://conjur.com.br/wp-content/uploads/2026/07/55195815825_b5e3d40f83_k-1079x720-1-300x200-1.jpg",
-        "data": "2026-08-20T22:51:32Z"
-    },
-    {
-        "title": "Gracyanne mostra joelho inchado após primeiros ensaios da Dança dos Famosos",
-        "body": "Gracyanne Barbosa mostrou o joelho esquerdo inchado após os primeiros ensaios da Dança dos Famosos. Ela voltou à competição um ano depois de cirurgia e",
-        "url": "https://www.treta.com.br/gracyanne-barbosa-joelho-inchado-danca-dos-famosos/",
-        "image": "https://www.treta.com.br/wp-content/uploads/2026/08/HEAD-HG-1-19.png",
-        "data": "2026-08-20T22:50:00Z"
-    },
-    {
-        "title": "Mendonça manda Instagram apagar vídeo de IA que liga Flávio e Vorcaro",
-        "body": "PL acusa perfil de uso irregular de deepfake e propaganda eleitoral antecipada em vídeo com paródia \"V de Vorcaro\".",
-        "url": "https://www.congressoemfoco.com.br/noticia/121500/mendonca-manda-instagram-apagar-video-de-ia-que-liga-flavio-e-vorcaro",
-        "image": "https://static.congressoemfoco.com.br/2026/08/20/cong_redes_retangular/2026/08/20/06a51f_cong_redes_retangular_55473886977e74c7536dck.jpg",
-        "data": "2026-08-20T22:48:49Z"
-    },
-    {
-        "title": "Incontinência urinária feminina: veja as causas e as opções de tratamento",
-        "body": "Escape de urina ao rir, tossir ou praticar exercícios não deve ser tratado como consequência inevitável da idade ou da maternidade",
-        "url": "https://www.terra.com.br/vida-e-estilo/saude/incontinencia-urinaria-feminina-veja-as-causas-e-as-opcoes-de-tratamento,174411d95d4aada810cf49ac20ad2bf9d33p5l3q.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/2134650111-incontinenciaurinariafeminina.png",
-        "data": "2026-08-20T22:46:54Z"
-    },
-    {
-        "title": "TRE-SP reverte decisão e libera vídeo com Tarcísio como boneco Chucky",
-        "body": "Em 1ª instância, a Justiça Eleitoral havia obrigado deputado do PT a apagar o vídeo por propaganda eleitoral negativa e uso irregular de IA",
-        "url": "https://www.metropoles.com/sao-paulo/tre-sp-reverte-decisao-e-libera-video-com-tarcisio-como-boneco-chucky",
-        "image": "https://i.metroimg.com/fuNArxGrflZnhOA1FK2rDClE38w42S9D55OiLkggOWA/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/tarcisio-freitas-campanha.jpg",
-        "data": "2026-08-20T22:42:28Z"
-    },
-    {
-        "title": "Mulher é acusada de planejar ataque inspirado pelo Estado Islâmico contra Capitólio em NY",
-        "body": "Autoridades dos EUA acusam Jessica Bowie de planejar instalar um explosivo no Capitólio estadual, em Albany, antes de fugir para a Síria.",
-        "url": "https://www.diariodocentrodomundo.com.br/mulher-acusada-ataque-estado-islamico-capitolio-nova-york/",
-        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/albany_steeple_023_2bb5fbe0-67b0-4b55-bc06feb9b68ea2ec_815485fb-5292-491d-8930f02a0451f8fa.jpg",
-        "data": "2026-08-20T22:42:19Z"
-    },
-    {
-        "title": "Quando um cachorro melhora de vida e passa a olhar os antigos amigos com desprezo",
-        "body": "Na quebrada todo mundo considera o Fúfi um cara legal, mas agora ele ficou rico e passa na frente da galera ostentando com arrogância… O cara fala que o dinheiro não vai mudar ele, mas a realidade é sempre essa. Ele pode ter ganhado milhões mas perdeu respeit…",
-        "url": "https://www.ahnegao.com.br/2026/08/quando-um-cachorro-melhora-de-vida-e-passa-a-olhar-os-antigos-amigos-com-desprezo.html",
-        "image": "https://www.ahnegao.com.br/wp-content/uploads/2026/08/2-9.webp",
-        "data": "2026-08-20T22:39:15Z"
-    },
-    {
-        "title": "PPR desembolsou 299 milhões de euros na última semana",
-        "body": "Execução do plano mantém-se nos 75%. Empresas são os maiores beneficiários, com 5.123 milhões recebidos. Aprovações de projetos somam 24.575 milhões.",
-        "url": "https://observador.pt/2026/08/20/prr-ja-pagou-14-300-milhoes-de-euros-aos-beneficiarios-mais-299-milhoes-na-ultima-semana/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A213%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F18163549%2Filacerda-navigator-cacia-aveiro-prr-125-scaled.jpg?layer=obstop:T",
-        "data": "2026-08-20T22:38:43Z"
-    },
-    {
-        "title": "Nada chique! Sexóloga revela comportamentos mais desagradáveis no sexo",
-        "body": "Trend \"coisas que acho chique\" tem viralizado. A coluna Pouca Vergonha entrou na onda para revelar o que não é nada elegante na hora do sexo",
-        "url": "https://www.metropoles.com/colunas/pouca-vergonha/nada-chique-sexologa-revela-comportamentos-mais-desagradaveis-no-sexo",
-        "image": "https://i.metroimg.com/pOQyjJ0deO0C5UQCePRQgg8x-JYnqM8ko91iBZqMmms/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/mulher-e-homem-1.jpg",
-        "data": "2026-08-20T22:35:35Z"
-    },
-    {
-        "title": "Internacional oficializa a contratação de Sanabria até o fim de 2029",
-        "body": "Atacante paraguaio de 30 anos estava na Cremonese, da Itália, e assinou contrato com o Colorado até dezembro de 2029",
-        "url": "https://www.metropoles.com/esportes/internacional-oficializa-a-contratacao-de-sanabria-ate-o-fim-de-2029",
-        "image": "https://i.metroimg.com/VyYWbvfqwD7GETQ2cw8owu05zNyzNvPqD4v8up4wBl4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/sanabria-internacional.jpg",
-        "data": "2026-08-20T22:34:46Z"
-    },
-    {
-        "title": "Globo contrata estrela da Netflix para o elenco de \"Por Você\"",
-        "body": "Domithila Cattete, que ganhou destaque em “Pssica”, interpreta uma jovem paraense que chega ao Rio de Janeiro em busca de novas oportunidades",
-        "url": "https://gente.ig.com.br/celebridades/2026-08-20/globo-contrata-estrela-da-netflix-para-o-elenco-de--por-voce-.html",
-        "image": "https://i0.statig.com.br/bancodeimagens/4n/xt/p9/4nxtp9t04hgq7e6gz9h59lz73.jpg",
-        "data": "2026-08-20T22:20:41Z"
-    },
-    {
-        "title": "Cristiano Ronaldo passa por avaliação antes de estrear pelo Al-Nassr na temporada",
-        "body": "Atacante voltou aos treinos nesta semana, mas sente incômodo na região pélvica e será reavaliado antes do duelo desta sexta-feira",
-        "url": "https://www.terra.com.br/esportes/arabia-saudita/cristiano-ronaldo-passa-por-avaliacao-antes-de-estrear-pelo-al-nassr-na-temporada,a509efdb692bcaf0d98764aa897245a1l3htovf1.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/907765311-hpodjigwsaatgfaeasy-resizecom-610x400.jpg",
-        "data": "2026-08-20T22:20:28Z"
-    },
-    {
-        "title": "Basquete: Brasil inicia preparação para as Eliminatórias da Copa",
-        "body": "A Seleção Brasileira de Basquete treinou nesta quinta-feira (20/8), no Comando Militar do Planalto, em Brasília",
-        "url": "https://www.metropoles.com/esportes/basquete-brasil-inicia-preparacao-para-as-eliminatorias-da-copa",
-        "image": "https://i.metroimg.com/BOpUETl4Uh1TQM6rHzvmEtt3BqlsmzyRUqO-M3251Hk/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/treino-selecao-brasileira-de-basquete.jpg",
-        "data": "2026-08-20T22:17:00Z"
-    },
-    {
-        "title": "Como Escolher o Tênis de Corrida Perfeito e Evitar Lesões",
-        "body": "Entenda como o tipo de pisada, o terreno e a tecnologia do tênis influenciam o conforto, o desempenho e a saúde do corredor",
-        "url": "https://www.terra.com.br/vida-e-estilo/saude/como-escolher-o-tenis-de-corrida-perfeito-e-evitar-lesoes,b1a1e2caecfae94565026b741a801c2ey5hc8h88.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/1503613761-1787256494.jpg",
-        "data": "2026-08-20T22:17:00Z"
-    },
-    {
-        "title": "Rebeca Andrade volta a disputar etapa da Copa do Mundo",
-        "body": "Campeã mundial no salto e no individual geral, a ginasta iniciou o retorno gradual às competições em junho, pelo Pan-Americano, no Rio de Janeiro",
-        "url": "https://esporte.ig.com.br/2026-08-20/apos-2-anos-rebeca-andrade-volta-disputar-etapa-copa-do-mundo.html",
-        "image": "https://i0.statig.com.br/bancodeimagens/5s/xi/eg/5sxiegx7xoz4ff7lunenilgrb.jpg",
-        "data": "2026-08-20T22:16:51Z"
-    },
-    {
-        "title": "Meia do Corinthians usa camisa 10 do Brasil",
-        "body": "O Corinthians teve um representante de destaque na vitória da Seleção Brasileira Sub-17 sobre a ...",
-        "url": "https://www.terra.com.br/esportes/corinthians/meia-do-corinthians-usa-camisa-10-do-brasil,d7bcb30e403b8bf335c3452dd943fabfy8wq0uo0.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/1931997878-camisa-do-corinthians.jpg",
-        "data": "2026-08-20T22:16:02Z"
-    },
-    {
-        "title": "Corinthians toma decisão sobre Memphis para enfrentar o Rosario Central",
-        "body": "Memphis Depay está de volta, mas o Corinthians não pretende acelerar o processo. Depois de quase ...",
-        "url": "https://www.terra.com.br/esportes/corinthians/corinthians-toma-decisao-sobre-memphis-para-enfrentar-o-rosario-central,288a0da60a1f51d211433874c46ff76bszslylfa.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/1137007188-memphis-depay-1.jpg",
-        "data": "2026-08-20T22:15:57Z"
-    },
-    {
-        "title": "EUA anuncia novas sanções contra Cuba por promoção do \"marxismo\"",
-        "body": "Ao todo, três indivíduos, oito empresas e um ministério de Cuba foram alvos das novas sanções dos EUA",
-        "url": "https://www.metropoles.com/mundo/eua-anuncia-novas-sancoes-contra-cuba-por-promocao-do-marxismo",
-        "image": "https://i.metroimg.com/2vZ1wRcFoxX6AVAJ-YHbGU_u7F5GrSegme0vD2DFcbY/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/af15a5a9-trump-e-rubio.jpg",
-        "data": "2026-08-20T22:15:07Z"
-    },
-    {
-        "title": "Exercício físico pode turbinar o sexo e gerar mais confiança; entenda",
-        "body": "Da yoga à corrida, os exercícios geram benefícios físicos e mentais, incluindo um sexo mais turbinado. Veja o que diz especialista",
-        "url": "https://www.metropoles.com/colunas/pouca-vergonha/exercicio-fisico-sexo",
-        "image": "https://i.metroimg.com/PvhiemJ2mv79uUgAGMdKU3skcCHJ1bzHGIeKoqDB9g0/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/casal-6.jpg",
-        "data": "2026-08-20T22:10:34Z"
-    },
-    {
-        "title": "Metalcredits e Amarjon realizam primeira compensação sustentável de metais preciosos do mundo no setor joalheiro",
-        "body": "A Metalcredits, startup de certificação do uso sustentável de metais, e a Amarjon, marca brasileira de biojoias com atuação nacional e internacional, realizam a primeira iniciativa para compensação de metais no mundo, via blockchain, no setor joalheiro. A ini…",
-        "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/08/20/metalcredits-e-amarjon-realizam-primeira-compensacao-sustentavel-de-metais-preciosos-do-mundo-no-setor-joalheiro-1.ghtml",
-        "image": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-        "data": "2026-08-20T22:08:53Z"
-    },
-    {
-        "title": "Lula anuncia pacote de R$ 2,3 bi para compra de supercomputador e transferência de tecnologia de IA",
-        "body": "Tendo a soberania digital como uma prioridade de um eventual novo mandato, o presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (20), no Rio Grande do Norte, um pacote de R$ 2,3 bilhões para a compra de um supercomputador e uma nova infraes…",
-        "url": "https://valor.globo.com/brasil/noticia/2026/08/20/lula-anuncia-pacote-de-r-23-bi-para-compra-de-supercomputador-e-transferncia-de-tecnologia-de-ia.ghtml",
-        "image": "https://s2-valor.glbimg.com/BoQHMWFaQs_q6CTO4ZhY2JhrIf0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/2/o/RAJMTyS3CSpgef2oniFg/john-adams-1xin4fmr78a-unsplash.jpg",
-        "data": "2026-08-20T22:08:11Z"
-    },
-    {
-        "title": "Arthur Elias faz avaliação após definição de jogos do Brasil na Copa",
-        "body": "Nesta quinta-feira (20/8), a Seleção Brasileira Feminina conheceu onde irá jogar nas três partidas da fase de grupos",
-        "url": "https://www.metropoles.com/esportes/arthur-elias-faz-avaliacao-apos-definicao-de-jogos-do-brasil-na-copa",
-        "image": "https://i.metroimg.com/3s-JoULOTdJzbzuOajnJIy0LWkM1gxKxQwlhm1SshWM/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/54870938969-09214e806f-o.jpg",
-        "data": "2026-08-20T22:04:41Z"
-    },
-    {
-        "title": "Ilhas da fantasia: conheça as micronações criadas por bilionários e libertários",
-        "body": "Piratas, no passado, e investidores de criptomoedas, no presente, fundaram países que desafiam os limites da geopolítica. Quase sempre, são projetos fracassados",
-        "url": "https://super.abril.com.br/historia/ilhas-da-fantasia-conheca-as-micronacoes-criadas-por-bilionarios-e-libertarios/",
-        "image": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Ilhas_da_fantasia.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-20T22:00:51Z"
-    },
-    {
-        "title": "Universidade e ciência sob o mesmo teto",
-        "body": "Ideia discutida no governo Jair Bolsonaro e incorporada ao plano de Flávio propõe reunir ensino superior e ciência em uma mesma estrutura",
-        "url": "https://tecnologia.ig.com.br/colunas/astropontes/2026-08-20/universidade-e-ciencia-sob-o-mesmo-teto.html",
-        "image": "https://i0.statig.com.br/bancodeimagens/eb/ed/q7/ebedq7khdj00t1i6i1753yj9e.jpg",
-        "data": "2026-08-20T22:00:24Z"
-    },
-    {
-        "title": "Como acabar com formigas em casa: estratégias eficazes para o controle e eliminação",
-        "body": "Entomólogo explica por que elas aparecem na cozinha e quais os métodos mais eficazes para o controle, desde receitas caseiras até a eliminação da colônia.",
-        "url": "https://casa.abril.com.br/minha-casa/como-acabar-com-formigas-em-casa-estrategias-eficazes-para-o-controle-e-eliminacao/",
-        "image": "https://casa.abril.com.br/wp-content/uploads/2026/08/formigas-transmitem-doencas-entenda-o-risco-real-e-o-que-a-ciencia-diz-marco-neri-unsplash.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-20T22:00:02Z"
-    },
-    {
-        "title": "Ciência, tecnologia e arte: Unicamp promove feira gratuita com participação de Atila Iamarino",
-        "body": "Atíla Lamarino é um dos convidados do evento gratuito de ciência, tecnologia e arte promovido pela Unicamp\nReprodução\nA Universidade Estadual de Campinas (Unicamp) promove, nos dias 19 e 20 de setembro, a Feira InterCOCEN, com programação que reúne oficinas, …",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/ciencia-tecnologia-e-arte-unicamp-promove-feira-gratuita-com-participacao-de-atila-iamarino.ghtml",
-        "image": "https://s2-g1.glbimg.com/bm_6UXwV2vPvg47nC2FnQunoyk4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/I/HZndnbS6eiEowtVP8iAQ/1200px-x-800px-18-.jpg",
-        "data": "2026-08-20T21:58:00Z"
-    },
-    {
-        "title": "Jaine Cassu nua: o corpo malhado que ela mostra",
-        "body": "Jaine Cassu nua, o corpo que ela treina desde os 18: a morena mostra o resultado de graça e reserva o resto para quem assina.\nO post Jaine Cassu nua: o corpo malhado que ela mostra apareceu primeiro em Testosterona Blog.",
-        "url": "https://www.testosterona.blog.br/fotos/influenciadoras/jaine-cassu-fotos",
-        "image": "https://www.testosterona.blog.br/wp-content/uploads/2026/02/jaine-cassu-nudes.jpg",
-        "data": "2026-08-20T21:57:43Z"
-    },
-    {
-        "title": "Saúde mental em Brasília: o avanço do cuidado psiquiátrico humanizado e da internação de curta permanência",
-        "body": "BRASÍLIA (DF) — Poucos temas cresceram tanto na conversa pública brasileira nos últimos anos quanto a saúde mental. E os números explicam por quê. A Organização Mundial da Saúde estima que mais de um bilhão de pessoas no mundo convivam hoje com algum transtor…",
-        "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/08/20/saude-mental-em-brasilia-o-avanco-do-cuidado-psiquiatrico-humanizado-e-da-internacao-de-curta-permanencia-1.ghtml",
-        "image": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-        "data": "2026-08-20T21:57:30Z"
-    },
-    {
-        "title": "Avenged Sevenfold volta ao Rock in Rio como headliner de novo em 2026",
-        "body": "Avenged Sevenfold volta como headliner do Rock in Rio 2026 no dia 5 de setembro, fechando o Palco Mundo pela segunda edição seguida.",
-        "url": "https://www.treta.com.br/avenged-sevenfold-headliner-rock-in-rio-2026/",
-        "image": "https://www.treta.com.br/wp-content/uploads/2026/08/dsc06102.jpg",
-        "data": "2026-08-20T21:55:00Z"
-    },
-    {
-        "title": "A breve história contrabandeada do morango moderno",
-        "body": "Os morangos parecem atemporais, não é? Seja em cima ou dentro de uma torta, mergulhados em chocolate ou comidos direto da caixa, essas frutas vermelhas e suculentas são as favoritas em hortifrutis e supermercados por todo o mundo. Mas os morangos que conhecem…",
-        "url": "https://www.mdig.com.br/index.php?itemid=61428",
-        "image": "https://imagens.mdig.com.br/historia/historia_morango_01.jpg",
-        "data": "2026-08-20T21:52:57Z"
-    },
-    {
-        "title": "Adidas ignora Cruzeiro e Internacional e dá destaque apenas para o Flamengo",
-        "body": "O Flamengo ganhou um espaço de destaque em uma das principais ações da Adidas para apresentar os ...",
-        "url": "https://www.terra.com.br/esportes/flamengo/adidas-ignora-cruzeiro-e-internacional-e-da-destaque-apenas-para-o-flamengo,7369ffc75f04cdc10f7b39a0d641d3a4akz8d6u3.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/20/2052434665-adidas-flamengo.jpg",
-        "data": "2026-08-20T21:52:37Z"
-    },
-    {
-        "title": "Alessandro Vieira e Rogério Correia buscam reeleição ao Senado em SE",
-        "body": "Senadores da atual legislatura buscam preservar mandatos enquanto enfrentam nomes de peso em pesquisas de intenção de voto.",
-        "url": "https://www.congressoemfoco.com.br/noticia/121498/alessandro-vieira-e-rogerio-correia-buscam-reeleicao-ao-senado-em-se",
-        "image": "https://static.congressoemfoco.com.br/2026/08/20/cong_redes_retangular/2026/08/20/916008_cong_redes_retangular_capturadetela20260820185049.jpg",
-        "data": "2026-08-20T21:50:56Z"
     }
 ]
