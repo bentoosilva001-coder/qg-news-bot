@@ -1,5 +1,516 @@
 [
     {
+        "title": "As notícias das 4h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2387/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-31T03:14:12Z"
+    },
+    {
+        "title": "Congresso decide sobre o fim da Taxa das Blusinhas",
+        "body": "Parlamentares avaliam até 8/9 a MP que pode tornar permanente a isenção do imposto federal sobre compras internacionais de até US$ 50",
+        "url": "https://www.metropoles.com/conteudo-especial/congresso-decide-sobre-o-fim-da-taxa-das-blusinhas",
+        "image": "https://i.metroimg.com/V3twWE6_BmoPBF5gB4sJF1LtMvmSecTTxw2AN55IuTQ/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/taxa-das-blusinhas-1.jpg",
+        "data": "2026-08-31T03:10:11Z"
+    },
+    {
+        "title": "Anthony Valencia desembarca no Rio de Janeiro fechar com o Flamengo",
+        "body": "Anthony Valencia tem três gols em três jogos pelo Royal Antwerp no Campeonato Belga na temporada 2026/27",
+        "url": "https://www.metropoles.com/esportes/anthony-valencia-desembarca-no-rio-de-janeiro-fechar-com-o-flamengo",
+        "image": "https://i.metroimg.com/boYbF2Pz-fFh3tiwfOOAxr1cup2OJHkU5Y6Tq02VCKI/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/anthony-valencia-flamengo.jpg",
+        "data": "2026-08-31T03:10:01Z"
+    },
+    {
+        "title": "Anticipar atentados terroristas",
+        "body": "Anticipar atentados terroristas",
+        "url": "https://www.lanacion.com.ar/editoriales/anticipar-atentados-terroristas-nid31082026/",
+        "image": "https://www.lanacion.com.ar/resizer/v2/eduardo-casal-procurador-general-de-la-NZBMF7DUMZDDZNTAPEWCYJWIOU.jpg?auth=9d8f872bbe6b3fd891df998f7b4eb987d272ec5670934c447da11b75ce64055d&width=1200&height=800&quality=70&smart=true",
+        "data": "2026-08-31T03:05:00Z"
+    },
+    {
+        "title": "Master e rachadinha: TSE suspende propaganda de Lula com ‘currículo’ de Flávio Bolsonaro",
+        "body": "A ministra Estela Aranha proibiu nova divulgação da peça da campanha de Lula; decisão ainda seguirá para análise do plenário do TSE.",
+        "url": "https://www.diariodocentrodomundo.com.br/tse-suspende-propaganda-lula-flavio-bolsonaro/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-tse-suspende-propaganda-lula-flavio-bolsonaro-arte-2026-08-05t224231-856.jpg",
+        "data": "2026-08-31T02:56:40Z"
+    },
+    {
+        "title": "Games, anime e música: quando o entretenimento vira o novo rádio",
+        "body": "Durante décadas, o rádio foi uma das principais portas de entrada para uma música nova. Depois ...",
+        "url": "https://www.terra.com.br/gameon/games-anime-e-musica-quando-o-entretenimento-vira-o-novo-radio,087b2fd78ad5aa1d1c68021a7daadb32lctw3c7t.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/games-vbcd1a0oft5t.png",
+        "data": "2026-08-31T02:40:41Z"
+    },
+    {
+        "title": "NPU, FSR e Socket AM5: a AMD explica, em português direto, o que cada tecnologia significa para o gamer brasileiro",
+        "body": "Priscila Bianchi, Gerente de Vendas ao Consumidor da AMD Brasil, fala sobre ciclo de hardware e custo-benefício",
+        "url": "https://www.terra.com.br/gameon/npu-fsr-e-socket-am5-a-amd-explica-em-portugues-direto-o-que-cada-tecnologia-significa-para-o-gamer-brasileiro,81e55ecbd7232b7f6ff079fb09de5177akl4ves5.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/amd-vf977x2rboz7.PNG",
+        "data": "2026-08-31T02:35:49Z"
+    },
+    {
+        "title": "VÍDEO – Flávio promete indicar ministros “contra o aborto” ao STF e quer Bolsonaro como conselheiro",
+        "body": "Em entrevista à Record, o candidato do PL também falou sobre anistia, segurança pública, escala 6 x 1 e investimentos em inteligência artificial.",
+        "url": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-ministros-contra-aborto-stf-conselheiro/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-flavio-bolsonaro-ministros-contra-aborto-stf-conselheiro-flavio-bolsonaro-na-record-1jefg9zkdytdf.png",
+        "data": "2026-08-31T02:31:57Z"
+    },
+    {
+        "title": "TSE suspende propaganda de Lula que vincula 'currículo' de Flávio Bolsonaro a casos de corrupção",
+        "body": "O Tribunal Superior Eleitoral (TSE) suspendeu na noite deste domingo, 30, a exibição de uma ...",
+        "url": "https://www.terra.com.br/noticias/brasil/politica/tse-suspende-propaganda-de-lula-que-vincula-curriculo-de-flavio-bolsonaro-a-casos-de-corrupcao,be6f4d1680d2326da62dfd7dffd98a8csw4i8ll8.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1870798658-bk5q3pa5kjc4beck4ms4jr6ti4.jpg",
+        "data": "2026-08-31T02:26:13Z"
+    },
+    {
+        "title": "As notícias das 3h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2422/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-31T02:13:17Z"
+    },
+    {
+        "title": "Pezzolano reconhece pressão e alerta: \"Precisamos ganhar urgente\"",
+        "body": "Técnico colorado reconhece momento delicado após derrota para o Bahia, mas destaca empenho da equipe, em Salvador",
+        "url": "https://www.terra.com.br/esportes/internacional/pezzolano-reconhece-pressao-e-cita-obrigacao-no-gre-nal-ganhar-urgente,5a4de8e3256fd4b5554c34976f3a5eeaealynf7h.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/109532004-inter-1-610x400.jpg",
+        "data": "2026-08-31T01:59:10Z"
+    },
+    {
+        "title": "Ex-jogador Luizão é acusado de agredir namorada em SP",
+        "body": "Agressão aconteceu em Maresias, no litoral de SP; atleta afirma que fez boletim de ocorrência para se defender de agressões que vem sofrendo",
+        "url": "https://www.metropoles.com/sao-paulo/ex-jogador-luizao-e-acusado-de-agredir-namorada-em-sp",
+        "image": "https://i.metroimg.com/VF5ne4pY-CNvd8zXes27GUQI8_AX0lvdo_eT1lC4Uog/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/design-sem-nome-52-1.jpg",
+        "data": "2026-08-31T01:57:31Z"
+    },
+    {
+        "title": "O que significa a placa de trânsito em formato de círculo com uma bicicleta preta no centro da via?",
+        "body": "O rodapé de poliestireno substitui modelos de MDF na lavanderia com resistência total à água, visual moderno e alta durabilidade no piso.\nO post O que significa a placa de trânsito em formato de círculo com uma bicicleta preta no centro da via? apareceu prime…",
+        "url": "https://catracalivre.com.br/noticias/o-que-significa-a-placa-de-transito-em-formato-de-circulo-com-uma-bicicleta-preta-no-centro-da-via/",
+        "image": "https://catracalivre.com.br/i/IxE-CDJGibMSoeaE2cE4VxltEH2qAO-Kjl_tUNroHDI/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9jaGF0Z3B0LWltYWdlLTMwLWRlLWFnby1kZS0yMDI2LTE5LTI0LTM4LmpwZw",
+        "data": "2026-08-31T01:51:52Z"
+    },
+    {
+        "title": "Bahia derrota o Internacional de virada e entra no G-5 do Brasileirão",
+        "body": "Com a derrota, Internacional perde duas posições e entra na zona de rebaixamento do Campeonato Brasileiro",
+        "url": "https://www.metropoles.com/esportes/bahia-derrota-o-internacional-de-virada-e-entra-no-g-5-do-brasileirao",
+        "image": "https://i.metroimg.com/x1XeBOPsx60QuFCBNk7ZsDLhnUyNQensSlFCpuJPdsE/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/internacional-bahia-brasileirao.jpg",
+        "data": "2026-08-31T01:50:20Z"
+    },
+    {
+        "title": "Adeus aos rodapés de MDF na lavanderia: os modelos de poliestireno sofisticados e mais resistentes à água que ganham espaço em 2026",
+        "body": "As mesas monolíticas de pedra renovam varandas e terraços ao ar livre com o requinte do design italiano e máxima resistência ao clima.\nO post Adeus aos rodapés de MDF na lavanderia: os modelos de poliestireno sofisticados e mais resistentes à água que ganham …",
+        "url": "https://catracalivre.com.br/noticias/adeus-aos-rodapes-de-mdf-na-lavanderia-os-modelos-de-poliestireno-sofisticados-e-mais-resistentes-a-agua-que-ganham-espaco-em-2026/",
+        "image": "https://catracalivre.com.br/i/Q_jmzaic-88tuccFWPBx57WPa08fqDK4SfTDYGjX1wA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9jaGF0Z3B0LWltYWdlLTMwLWRlLWFnby1kZS0yMDI2LTE5LTI0LTQ4LmpwZw",
+        "data": "2026-08-31T01:32:22Z"
+    },
+    {
+        "title": "Tatá Werneck faz Isabel Teixeira chorar com recado no 'Domingão': 'Inacreditável'",
+        "body": "Pilar em 'Quem Ama Cuida', Isabel Teixeira recebe mensagem inesperada de Tatá Werneck, sua filha na trama, e surpreende com reação; veja!",
+        "url": "https://www.terra.com.br/diversao/gente/tata-werneck-faz-isabel-teixeira-chorar-com-recado-no-domingao-inacreditavel,ec6570ed657f82c64cd8c7af159d12e8t4c8q00q.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/328213864-tata-werneck-isabel-teixeira.jpg",
+        "data": "2026-08-31T01:28:50Z"
+    },
+    {
+        "title": "Bronze na Olimpíada de Tóquio-2020, nadador Fernando Scheffer anuncia aposentadoria aos 28 anos",
+        "body": "View this post on Instagram Medalhista de bronze nos 200m livres nos Jogos Olímpicos de ...",
+        "url": "https://www.terra.com.br/esportes/bronze-na-olimpiada-de-toquio-2020-nadador-fernando-scheffer-anuncia-aposentadoria-aos-28-anos,457291923ee14b2d498630fa1c600507k6s8t6b7.html",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "data": "2026-08-31T01:23:30Z"
+    },
+    {
+        "title": "Bahia vira sobre o Internacional, segura pressão e vence por 3 a 2",
+        "body": "O Bahia venceu o Internacional por 3 a 2 neste domingo (30), na Arena Fonte Nova, pela 25ª rodada do Campeonato Brasileiro. O Tricolor saiu atrás no placar, virou ainda no primeiro tempo e precisou suportar a pressão do Colorado na etapa final para confirmar …",
+        "url": "https://www.terra.com.br/esportes/futebol/bahia-vira-sobre-o-internacional-segura-pressao-e-vence-por-3-a-2,57c3fc8f3a0f89d8554ae71f5bc96df145vilyzq.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1908502990-pulga.jpg",
+        "data": "2026-08-31T01:22:55Z"
+    },
+    {
+        "title": "Leonardo Storck arrasa na estreia e vai às oitavas em Repentigny, no Canadá",
+        "body": "Leonardo Storck, jovem atleta da Rio Tennis Academy, do Rio de Janeiro, de 17 anos, número 22 do mundo, estreou com vitória, neste domingo, no torneio J300 de Repentigny, no Canadá, evento sobre o piso duro com importantes pontos no ranking mundial e que serv…",
+        "url": "https://www.terra.com.br/esportes/tenis/leonardo-storck-arrasa-na-estreia-e-vai-as-oitavas-em-repentigny-no-canada,d6574e19f3e60ec4c83132597484c84cdgfr0qqh.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1756342688-leonardostorck26pisoduro.jpg",
+        "data": "2026-08-31T01:16:55Z"
+    },
+    {
+        "title": "Aliado de Marçal, Tassio Renam declara R$ 2,7 milhões em relógios à Justiça Eleitoral",
+        "body": "Advogado Tassio Renam, aliado de Pablo Marçal e candidato pelo União Brasil, declarou R$ 26,2 milhões à Justiça Eleitoral, incluindo relógios.",
+        "url": "https://www.diariodocentrodomundo.com.br/tassio-renam-declara-relogios-patrimonio-justica-eleitoral/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-tassio-renam-declara-relogios-patrimonio-justica-eleitoral-snapinsta-1787962840329.webp",
+        "data": "2026-08-31T01:16:31Z"
+    },
+    {
+        "title": "As notícias das 2h",
+        "body": "A Guarda Revolucionária Islâmica do Irão indica ter combinado mísseis e drones no ataque, que apelidou de “Punição ao Agressor”. Ainda, Zelensky está a preparar novos encontros com enviados dos EUA",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2396/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-31T01:15:50Z"
+    },
+    {
+        "title": "Flávio Bolsonaro volta a defender ajuste fiscal com 'tesouraço' e aumento de receita",
+        "body": "O candidato à presidência da República pelo PL, Flávio Bolsonaro, voltou a defender um ajuste ...",
+        "url": "https://www.terra.com.br/noticias/brasil/politica/flavio-bolsonaro-volta-a-defender-ajuste-fiscal-com-tesouraco-e-aumento-de-receita,761a037e2b9e9f330780afd87c62178dr961rshl.html",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "data": "2026-08-31T01:10:49Z"
+    },
+    {
+        "title": "Irã contra-ataca os EUA e bombardeia bases norte-americanas na Jordânia",
+        "body": "O ato foi resposta ao ataque dos EUA contra lançadores de mísseis iranianos no Estreito de Ormuz",
+        "url": "https://www.metropoles.com/mundo/ira-contra-ataca-os-eua-e-bombardeia-bases-norte-americanas-na-jordania",
+        "image": "https://i.metroimg.com/EGL5EvftuaVJiqBkSx7N0TYRntotwPxHUdeSjQgDXMA/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/03/eua-ira-trump-guerra-oriente-medio-arte-metropoles-2.jpeg",
+        "data": "2026-08-31T01:08:24Z"
+    },
+    {
+        "title": "Alan Patrick admite crise no Internacional: \"Não é o suficiente\"",
+        "body": "Colorado perde para o Bahia, chega a nove jogos sem vencer e entra na zona de rebaixamento do Brasileirão",
+        "url": "https://www.terra.com.br/esportes/internacional/alan-patrick-admite-crise-no-internacional-nao-e-o-suficiente,30fdf1da61eef926368492b9a11671783fm4dzej.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/161150348-interna01-610x400.jpg",
+        "data": "2026-08-31T01:08:12Z"
+    },
+    {
+        "title": "Luciano Huck se emociona ao falar com Lito Sousa no 'Domingão': 'Muito carinho por você'",
+        "body": "Apresentador Luciano Huck relembrou apoio de Lito Sousa após acidente aéreo da família e expressou carinho pelo famoso em meio ao diagnóstico delicado",
+        "url": "https://www.terra.com.br/diversao/gente/luciano-huck-se-emociona-ao-falar-com-lito-sousa-no-domingao-muito-carinho-por-voce,b92c6e1fb567bdbc1d1869c7411eb52bseq0ebf6.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1426498793-huck-lito-sousa.jpg",
+        "data": "2026-08-31T01:08:02Z"
+    },
+    {
+        "title": "TSE suspende propaganda de Lula sobre \"currículo de Flávio Bolsonaro”",
+        "body": "Vídeo publicado por Lula cita acusações e episódios controversos da trajetória de Flávio Bolsonaro",
+        "url": "https://www.metropoles.com/brasil/tse-suspende-propaganda-de-lula-sobre-curriculo-de-flavio-bolsonaro",
+        "image": "https://i.metroimg.com/k0LNkR6HNA5XKDuE99BfEeE6V3-3nswquSwW4P9THLU/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/05/novas-thumbs-77.jpg",
+        "data": "2026-08-31T01:05:33Z"
+    },
+    {
+        "title": "Bahia vence batalha de cinco gols, derruba o Inter ao Z-4 e entra no G-5 do Brasileirão",
+        "body": "Resultado leva equipe comandada por Rogério Ceni aos 40 pontos, dentro da zona de classificação direta para a Libertadores",
+        "url": "https://www.terra.com.br/esportes/internacional/bahia-vence-batalha-de-cinco-gols-derruba-o-inter-ao-z-4-e-entra-no-g-5-do-brasileirao,d909511fb171ce57f901049f575bfcd534u27shf.html",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+        "data": "2026-08-31T00:56:55Z"
+    },
+    {
+        "title": "Grêmio vence de virada e afunda Chapecoense na lanterna do Brasileirão",
+        "body": "Após três jogos sem vencer, o Grêmio encontrou o caminho da vitória ao bater a Chapecoense por 3 x 1",
+        "url": "https://www.metropoles.com/esportes/gremio-vence-de-virada-e-afunda-chapecoense-na-lanterna-do-brasileirao",
+        "image": "https://i.metroimg.com/6BmFMtAJJWIrQTqDanC0oSvXj9Tu8iOFZi8o_HmQr-0/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/chapecoense-gremio.jpg",
+        "data": "2026-08-31T00:56:26Z"
+    },
+    {
+        "title": "Cassierra, Cuello, Minda, Renan Lodi, Victor Hugo, Bernard, Reinier, Tressoldi e Maycon: os jogadores do Atlético-MG com mais participações em gols no Brasileirão",
+        "body": "O calendário do futebol brasileiro é um dos mais difíceis do mundo, exigindo que os atletas se ...",
+        "url": "https://www.terra.com.br/esportes/atletico-mg/cassierra-cuello-minda-renan-lodi-victor-hugo-bernard-reinier-tressoldi-e-maycon-os-jogadores-do-atletico-mg-com-mais-participacoes-em-gols-no-brasileirao,9c51768a7534604cda825eb35ba0e1cam94rcwkx.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/739325214-554753089239cb816db4fk.jpg",
+        "data": "2026-08-31T00:56:18Z"
+    },
+    {
+        "title": "Cuca surpreende após vitória do Santos sobre o Corinthians: \"Revirada\"",
+        "body": "O Santos deixou a Neo Química Arena com mais do que três pontos. A vitória por 1 a 0 sobre o ...",
+        "url": "https://www.terra.com.br/esportes/santos/cuca-surpreende-apos-vitoria-do-santos-sobre-o-corinthians-revirada,230cb16dee1520d72a4c6ceca9cfa238nwo2idso.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1860332355-2026-corinthians-x-santos-tecnico-cuca.jpg",
+        "data": "2026-08-31T00:56:16Z"
+    },
+    {
+        "title": "Flávio Bolsonaro diz que não vai permitir intervenção dos EUA no Brasil",
+        "body": "De acordo com Flávio, a participação dos Estados Unidos vai ocorrer por meio de cooperações no combate ao narcotráfico",
+        "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-diz-que-nao-vai-permitir-intervencao-dos-eua-no-brasil",
+        "image": "https://i.metroimg.com/UMmeIugdcaUsIIotef4hn4Tct4wKM_kbgKU34sF98e4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/06/flavio-bolsonaro-participa-do-debate-com-os-candidatos-a-presidente-do-brasil-para-a-eleicao-de-2026-no-evento-da-confederacao-nacional-da-industria-cni-metropoles-3-scaled.jpg",
+        "data": "2026-08-31T00:54:46Z"
+    },
+    {
+        "title": "Cantor Giovani aparece em público com nova namorada após suposta traição",
+        "body": "O cantor sertanejo Giovani, da dupla com Gian, reuniu amigos para celebrar o aniversário e foi visto ao lado da nova namorada",
+        "url": "https://www.metropoles.com/colunas/fabia-oliveira/cantor-giovani-aparece-em-publico-com-nova-namorada-apos-suposta-traicao",
+        "image": "https://i.metroimg.com/PvFaniKAp8GC6yhmAlZHvSQibJbVGOaC2JMxXZjhWqM/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/cantor-giovani.jpg",
+        "data": "2026-08-31T00:44:27Z"
+    },
+    {
+        "title": "O significado profundo do provérbio chinês sobre paciência diante dos obstáculos: “Uma jornada de mil milhas começa com um único passo”",
+        "body": "Monte Verde combina montanhas, arquitetura alpina e clima frio na Mantiqueira, despontando como refúgio de inverno em Minas Gerais.\nO post O significado profundo do provérbio chinês sobre paciência diante dos obstáculos: “Uma jornada de mil milhas começa com …",
+        "url": "https://catracalivre.com.br/noticias/o-significado-profundo-do-proverbio-chines-sobre-paciencia-diante-dos-obstaculos-uma-jornada-de-mil-milhas-comeca-com-um-unico-passo/",
+        "image": "https://catracalivre.com.br/i/nHJp7h2kwGdgn5M3ByP0rpK6VXxSSZurEI2Xk5hPDJ8/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9jaGF0Z3B0LWltYWdlLTMwLWRlLWFnby1kZS0yMDI2LTE5LTI1LTEwLmpwZw",
+        "data": "2026-08-31T00:40:22Z"
+    },
+    {
+        "title": "Bahia vence, entra no G5 e afunda o Internacional na zona de rebaixamento",
+        "body": "Esquadrão de Aço sai atrás, vira o jogo, toma susto no final, mas garante triunfo importante. Colorado despenca ainda mais na tabela",
+        "url": "https://www.terra.com.br/esportes/futebol/internacional/bahia-vence-entra-no-g5-e-afunda-o-internacional-na-zona-de-rebaixamento,962cfdaedaf0a6a6f887636630553e5asr55s155.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/986837322-bahia01-1-610x400.jpg",
+        "data": "2026-08-31T00:38:08Z"
+    },
+    {
+        "title": "Venezuela: protegido de Trump, empresário acusado de lavar dinheiro vira chefão do petróleo",
+        "body": "Governo Trump fecha acordo com Alejandro Betancourt para explorar 17 campos de petróleo na Venezuela e ampliar presença dos EUA no setor.",
+        "url": "https://www.diariodocentrodomundo.com.br/venezuela-protegido-trump-empresario-acusado-lavar-dinheiro-chefao-petroleo/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/alejandro-betancourt-e1572988887515.jpg",
+        "data": "2026-08-31T00:33:40Z"
+    },
+    {
+        "title": "Paquetá, Pedro, Arrascaeta, Jorginho, Bruno Henrique, Samuel Lino, Plata, Carrascal, Léo Pereira e Varela: os jogadores do Flamengo com mais participações em gols no Brasileirão",
+        "body": "O calendário do futebol brasileiro é um dos mais difíceis do mundo, exigindo que os atletas se ...",
+        "url": "https://www.terra.com.br/esportes/flamengo/paqueta-pedro-arrascaeta-jorginho-bruno-henrique-samuel-lino-plata-carrascal-leo-pereira-e-varela-os-jogadores-do-flamengo-com-mais-participacoes-em-gols-no-brasileirao,a59f1557730502b7e3fc25195c4170944scda647.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/630987464-552186014529e05f9eefck.jpg",
+        "data": "2026-08-31T00:32:55Z"
+    },
+    {
+        "title": "Neymar, Gabigol, Rollheiser, Barreal, Moises, Bontempo, Zé Rafael, Thaciano, Miguel Terceros e Christian Oliva: os jogadores do Santos com mais participações em gols no Brasileirão",
+        "body": "O calendário do futebol brasileiro é um dos mais difíceis do mundo, exigindo que os atletas se ...",
+        "url": "https://www.terra.com.br/esportes/santos/neymar-gabigol-rollheiser-barreal-moises-bontempo-ze-rafael-thaciano-miguel-terceros-e-christian-oliva-os-jogadores-do-santos-com-mais-participacoes-em-gols-no-brasileirao,d06cea7660d2fd04e1e5783c612f459aice6hhqi.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/2096845063-ze-rafael.png",
+        "data": "2026-08-31T00:32:50Z"
+    },
+    {
+        "title": "Bahia vence o Internacional de virada, entra no G5, e afunda gaúchos no Z4 do Brasileirão",
+        "body": "O Bahia venceu o Internacional por 3 a 2 na noite deste domingo, 30, em Salvador, em partida da ...",
+        "url": "https://www.terra.com.br/esportes/bahia/bahia-vence-o-internacional-de-virada-entra-no-g5-e-afunda-gauchos-no-z4-do-brasileirao,d9bb9a8a99ff291ce62123fb3edd48dfbt0py419.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1632142449-2025-bahia-x-nacional-atacante-erick-pulga.jpg",
+        "data": "2026-08-31T00:32:36Z"
+    },
+    {
+        "title": "Na 'Dança dos Famosos', Ticiane Pinheiro expõe semana complicada com Tralli",
+        "body": "Esposa de César Tralli, Ticiane Pinheiro revela semana difícil com o marido em casa diante da maratona de sabatinas com os candidatos à Presidência no 'Jornal Nacional'",
+        "url": "https://www.terra.com.br/diversao/gente/na-danca-dos-famosos-ticiane-pinheiro-expoe-semana-complicada-com-tralli,0baccf3b8377068fd4688e4f8a0bb18582hwwxul.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/287339082-ticiane-pinheiro-e-tralli.jpg",
+        "data": "2026-08-31T00:25:52Z"
+    },
+    {
+        "title": "Ancine liberou registro de filme estrangeiro para ‘Dark Horse’ um dia após PF solicitar documentos à agência",
+        "body": "A Agência Nacional de Cinema (Ancine) concedeu o Registro de Obra Estrangeira (ROE) ao filme Dark Horse (O Azarão), suposta cinebiografia do ex-presidente condenado por golpe de Estado Jair Bolsonaro, apenas poucas horas após a Polícia Federal (PF) requisitar…",
+        "url": "https://farofafa.com.br/2026/08/30/ancine-liberou-registro-de-filme-estrangeiro-para-dark-horse-um-dia-apos-pf-solicitar-documentos-a-agencia/",
+        "image": "https://farofafa.com.br/wp-content/uploads/2020/09/20200919_154246.jpg",
+        "data": "2026-08-31T00:22:40Z"
+    },
+    {
+        "title": "As notícias da 1h",
+        "body": "Paulo Portas afirma, porém,  que do ponto geopolítico \"revela talento\" por agradar a chineses, americanos e europeus. Ainda, Marco Silva releva que o jogo de segunda frente ao estoril será especial.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2369/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-31T00:13:23Z"
+    },
+    {
+        "title": "Pavón, Carlos Vinícius, Amuzu, Tetê, Erick Noriega, Juan Nardoni, Gustavo Martins, José Enamorado, Marlon e Gabriel Mec: os jogadores do Grêmio com mais participações em gols no Brasileirão",
+        "body": "O calendário do futebol brasileiro é um dos mais difíceis do mundo, exigindo que os atletas se ...",
+        "url": "https://www.terra.com.br/esportes/gremio/pavon-carlos-vinicius-amuzu-tete-erick-noriega-juan-nardoni-gustavo-martins-jose-enamorado-marlon-e-gabriel-mec-os-jogadores-do-gremio-com-mais-participacoes-em-gols-no-brasileirao,16fba1995d589708fa03acda76e2c9a6dunaps62.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1057072522-553039723889fcbdd2bd9k.jpg",
+        "data": "2026-08-31T00:09:49Z"
+    },
+    {
+        "title": "Alan Patrick, Bernabei, Carbonero, Alerrandro, Vitinho, Braian Aguirre, Bruno Henrique, Matheus Bahia, Mercado e Borré: os jogadores do Internacional com mais participações em gols no Brasileirão",
+        "body": "O calendário do futebol brasileiro é um dos mais difíceis do mundo, exigindo que os atletas se ...",
+        "url": "https://www.terra.com.br/esportes/internacional/alan-patrick-bernabei-carbonero-alerrandro-vitinho-braian-aguirre-bruno-henrique-matheus-bahia-mercado-e-borre-os-jogadores-do-internacional-com-mais-participacoes-em-gols-no-brasileirao,5d8ec21bca1c0e6510953d83bd9c2f644cpfx1md.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1864362469-bruno-henrique-em-acao-pelo-internacional.jpg",
+        "data": "2026-08-31T00:09:42Z"
+    },
+    {
+        "title": "Stray Kids: Conheça a História do Headliner de K-pop do Rock in Rio",
+        "body": "Grupo sul-coreano será headliner do Palco Mundo em 11 de setembro, depois de bater recordes de público, vendas e turnês",
+        "url": "https://www.terra.com.br/diversao/musica/stray-kids-conheca-a-historia-do-headliner-de-k-pop-do-rock-in-rio,53cc6de8553ec0e665df95170ef2a174fcp0fb9v.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/31/1600272537-stray-kids-1-1024x683.jpg",
+        "data": "2026-08-31T00:05:01Z"
+    },
+    {
+        "title": "EUA atingem lançadores de 'rockets' iranianos em Ormuz, Irão promete \"punição do agressor\"",
+        "body": "Ataque - o primeiro desde julho - foi realizado com drones e causou mortos e feridos. Porta-voz da Guarda Revolucionária afirmou que esta \"agressão terrorista\" será \"castigada\".",
+        "url": "https://expresso.pt/medio-oriente/conflito/2026-08-30-eua-atingem-lancadores-de-rockets-iranianos-em-ormuz-irao-promete-punicao-do-agressor-7863e130",
+        "image": "https://images.impresa.pt/expresso/2026-05-10-irao-petroleiro-ormuz.jpg-5e05844e/1.91x1?wm=true&outputFormat=jpeg",
+        "data": "2026-08-30T23:58:09Z"
+    },
+    {
+        "title": "Flávio Bolsonaro se irrita com associação a Paes e pede voto em Douglas Ruas",
+        "body": "Senador do PL criticou montagem que unia sua imagem à de Eduardo Paes e declarou apoio a Douglas Ruas na disputa pelo governo fluminense.",
+        "url": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-rejeita-associacao-eduardo-paes-douglas-ruas/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-flavio-bolsonaro-rejeita-associacao-eduardo-paes-douglas-ruas-paes-e-flavio-post.jpeg",
+        "data": "2026-08-30T23:53:57Z"
+    },
+    {
+        "title": "Luciano Huck manda recado para Lito Sousa no Domingão: 'Guardo muito carinho por você'",
+        "body": "O influenciador especializado em avião foi diagnosticado com uma rara condição neurodegenerativa",
+        "url": "https://www.terra.com.br/diversao/gente/luciano-huck-manda-recado-para-lito-sousa-no-domingao-guardo-muito-carinho-por-voce,6b1abc6ebd41f96c16cdfddc215b0b2cm0qmq5q8.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/design-sem-nome-2026-08-30t203837-588-t8f6uyev75tf.png",
+        "data": "2026-08-30T23:41:13Z"
+    },
+    {
+        "title": "Mais de um mês depois, EUA atacam Irão que já retaliou",
+        "body": "Os Estados Unidos atacaram o Irão, na ilha Larak, para impedir o lançamento de rockets que pretendiam voltar a colocar minas no Estreito de Ormuz. O Irão já retaliou com ataques a bases na Jordânia.",
+        "url": "https://observador.pt/2026/08/31/__trashed-166/",
+        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1993%3A1121%3Anowe%3A3%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F22171135%2F47498609.jpg?layer=obstop:T",
+        "data": "2026-08-30T23:39:14Z"
+    },
+    {
+        "title": "1899, o estranho ano que deu ao mundo Nabokov, Hemingway, Borges e Kawabata",
+        "body": "Em 1899 nasceram Nabokov, Hemingway, Borges e Kawabata. Quatro escritores radicalmente diferentes atravessariam guerras, exílios e rupturas para transformar a literatura do século 20.Em 1899 nasceram Nabokov, Hemingway, Borges e Kawabata. Quatro escritores ra…",
+        "url": "https://www.revistabula.com/166985-escritores-nascidos-1899-nabokov-hemingway-borges-kawabata/",
+        "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/08/Autores-2.webp",
+        "data": "2026-08-30T23:39:10Z"
+    },
+    {
+        "title": "As vassouras tradicionais são coisa do passado: a nova alternativa limpa melhor e será tendência em 2026",
+        "body": "Aspirador sem fio ajuda a remover poeira fina e pelos em ambientes internos, enquanto a vassoura continua prática para folhas, terra e áreas externas.\nO post As vassouras tradicionais são coisa do passado: a nova alternativa limpa melhor e será tendência em 2…",
+        "url": "https://catracalivre.com.br/noticias/as-vassouras-tradicionais-sao-coisa-do-passado-a-nova-alternativa-limpa-melhor-e-sera-tendencia-em-2026/",
+        "image": "https://catracalivre.com.br/i/t6h-8ynN72LNcp8B-v9vfrX2F1g89a99bk_g5aMSMxg/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC90cmFkaXRpb25hbC1icm9vbS1pbi1tb2Rlcm4ta2l0Y2hlbi0yMDI2MDgzMDE1MzAuanBlZw",
+        "data": "2026-08-30T23:37:56Z"
+    },
+    {
+        "title": "Grêmio vence lanterna Chapecoense e ganha respiro no Brasileirão",
+        "body": "Tricolor volta a vencer após duas derrotas seguidas e afunda time catarinense na lanterna da competição",
+        "url": "https://www.terra.com.br/esportes/gremio/gremio-vence-lanterna-chapecoense-e-ganha-respiro-no-brasileirao,3d167651895835a8e0d6c6588c9e5f4e0u8w3xap.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1566813628-gremio01-610x400.jpg",
+        "data": "2026-08-30T23:35:07Z"
+    },
+    {
+        "title": "Que cimeira é esta que reúne Putin, Xi, Modi e Pezeshkian?",
+        "body": "No ano em que completa 25 anos, a SCO reúne no Quirguistão com conflitos na Ucrânia e no Médio Oriente, sanções ao Irão e gasodutos russos em cima da mesa.",
+        "url": "https://observador.pt/2026/08/31/o-mundo-de-olhos-postos-em-bisqueque-o-que-esta-em-causa-na-cimeira-que-vai-reunir-putin-xi-modi-pezeshkian-e-ate-guterres/",
+        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A136%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F30225410%2Fgettyimages-2292268548-scaled.jpg?layer=obstop:T",
+        "data": "2026-08-30T23:32:33Z"
+    },
+    {
+        "title": "Os nossos tempos: Conundrum",
+        "body": "E essa é a verdade: por muitas substâncias que tomemos, nunca deixamos de ser o que somos. Criaturas e não deuses.",
+        "url": "https://observador.pt/opiniao/os-nossos-tempos-conundrum/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg",
+        "data": "2026-08-30T23:25:56Z"
+    },
+    {
+        "title": "Acordo entre EUA e Venezuela tem parceiro controverso",
+        "body": "As reservas dos Estados Unidos estão em mínimos de mais de 40 anos. Trump garante que vai começar a enchê-las com o petróleo da Venezuela com quem chegou a acordo. Mas tem um parceiro controverso.",
+        "url": "https://observador.pt/2026/08/31/com-reservas-em-minimos-de-40-anos-eua-fisgam-petroleo-da-venezuela-em-acordo-que-tem-empresario-controverso-e-sob-investigacao-no-centro/",
+        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1123%3Anowe%3A0%3A103%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F13192325%2F47579687.jpg?layer=obstop:T",
+        "data": "2026-08-30T23:24:36Z"
+    },
+    {
+        "title": "O que faria se entrasse hoje na universidade",
+        "body": "Uma carta longa para quem soube esta semana que entrou",
+        "url": "https://observador.pt/opiniao/o-que-faria-se-entrasse-hoje-na-universidade/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
+        "data": "2026-08-30T23:23:00Z"
+    },
+    {
+        "title": "Trump queria uma província. O Canadá também não sabia se era",
+        "body": "Sobra o lago. De um lado, quem o rebaptizou. Do outro, um premier provincial com conversa para inglês ver e um primeiro-ministro a construir um oleoduto que não construiria se Trump se tivesse calado",
+        "url": "https://observador.pt/opiniao/trump-queria-uma-provincia-o-canada-tambem-nao-sabia-se-o-era/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A480%3A480%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F04%2F09222002%2Ffoto-joao-a-b-da-silva-png.jpg",
+        "data": "2026-08-30T23:22:03Z"
+    },
+    {
+        "title": "Em Portugal não há guerra, há uma democracia",
+        "body": "É preciso que haja um governante português com coragem que explique com firmeza à ONU que a guerra em Portugal acabou há mais de 50 anos. O que há é uma democracia.",
+        "url": "https://observador.pt/opiniao/em-portugal-nao-ha-guerra-ha-uma-democracia/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A1759%3A1759%3Anowe%3A1101%3A20%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F04%2F01133605%2Fpedro-afonso.jpg",
+        "data": "2026-08-30T23:20:45Z"
+    },
+    {
+        "title": "As notícias das 00h",
+        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2406/",
+        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+        "data": "2026-08-30T23:16:31Z"
+    },
+    {
+        "title": "Um adeus a um brâmane português",
+        "body": "Começo o dia de hoje a despedir-me do Professor Narana Coissoró, e vai custar dizer-lhe adeus",
+        "url": "https://observador.pt/opiniao/um-adeus-a-um-bramane-portugues/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A2112%3A2112%3Anowe%3A0%3A355%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F04%2F11105254%2Fclara-macedo-cabral.jpeg",
+        "data": "2026-08-30T23:15:20Z"
+    },
+    {
+        "title": "O fim do país seguro não foi um erro — foi uma decisão",
+        "body": "Fica uma pergunta em aberto, que merece um artigo próprio: até que ponto esta regularização em massa foi apenas o resultado de uma gestão desastrada?",
+        "url": "https://observador.pt/opiniao/o-fim-do-pais-seguro-nao-foi-um-erro-foi-uma-decisao/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F25232515%2Fimage0.jpg",
+        "data": "2026-08-30T23:14:44Z"
+    },
+    {
+        "title": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
+        "body": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econômica quanto militar\".",
+        "url": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+        "data": "2026-08-30T23:12:18Z"
+    },
+    {
+        "title": "Quem eram Carla Vendramin e Silvia Geraldi, pesquisadoras homenageadas em defesa póstuma inédita na Unicamp",
+        "body": "Aluna e orientadora morrem antes de banca e Unicamp tem 1ª defesa póstuma de doutorado\nA defesa póstuma inédita realizada pela Unicamp na segunda-feira (24) transformou uma tese em homenagem ao encontro de duas pesquisadoras que se cruzaram pela dança e pela …",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/30/quem-eram-carla-vendramin-e-silvia-geraldi-pesquisadoras-homenageadas-em-defesa-postuma-inedita-na-unicamp.ghtml",
+        "image": "https://s2-g1.glbimg.com/LyXXdGgHtnQmAHHJrSZAanijYhE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/2/I8pgmpQIe088ROws3NZg/2.png",
+        "data": "2026-08-30T23:11:15Z"
+    },
+    {
+        "title": "Adeus! Jornalista deixa o SBT",
+        "body": "A trajetória de Marcela Mattos no SBT News chegou ao fim nesta semana, conforme anunciou a ...",
+        "url": "https://www.terra.com.br/diversao/adeus-jornalista-deixa-o-sbt,3fb7cb828db8f069b4fa05571c3c8763d6khk17z.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/529742832-sbt-entra-de-vez-nas-disputas-por-torneios-esportivos.jpg",
+        "data": "2026-08-30T23:10:55Z"
+    },
+    {
+        "title": "Portugal no “clube A”: o rating que o mercado não ignora",
+        "body": "O A+ com perspetiva positiva não é apenas um número técnico; é o sinal de que o país deixou de ser periferia de risco para se tornar destino de capital estável.",
+        "url": "https://observador.pt/opiniao/portugal-no-clube-a-o-rating-que-o-mercado-nao-ignora/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F10184213%2Fpedro-pires-e-borges-png.jpg",
+        "data": "2026-08-30T23:04:10Z"
+    },
+    {
+        "title": "Requerentes de asilo no Reino Unido: Shaken, not stirred",
+        "body": "Assim corre a hipocrisia da esquerda, continente e ilhas. Apesar da candura, este prospeto tivesse sido formulado por um governo de direita, seria rotulado de fascista, xenófobo e racista.",
+        "url": "https://observador.pt/opiniao/requerentes-de-asilo-no-reino-unido-shaken-not-stirred/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F08145002%2Fcaptura-de-ecra-2024-05-08-144606.jpg",
+        "data": "2026-08-30T23:03:46Z"
+    },
+    {
+        "title": "Preço sim, imposto não",
+        "body": "Seis Estados-Membros, entre os quais Portugal, pediram a Bruxelas um enquadramento comum para tributar os lucros excepcionais das petrolíferas. A Comissão respondeu que a matéria não é sua.",
+        "url": "https://observador.pt/opiniao/preco-sim-imposto-nao/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A1281%3A1281%3Anowe%3A114%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F06%2F17222511%2Fantero-carvalho-foto.jpg",
+        "data": "2026-08-30T23:02:25Z"
+    },
+    {
+        "title": "Flamengo Pode Gastar R$ 118 Milhões em Dupla de Atacantes e Corre Contra o Tempo",
+        "body": "Anthony Valencia está mais próximo de um acerto, enquanto negociação por Joaquín Freitas avança às vésperas do prazo da Libertadores.",
+        "url": "https://www.terra.com.br/parceiros/woo-magazine/flamengo-pode-gastar-r-118-milhoes-em-dupla-de-atacantes-e-corre-contra-o-tempo,0ed601da6d776727547068b8a2f8cb1e7wnohyyn.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/909411771-anthony-valencia-flamengo-02-1024x576.jpg",
+        "data": "2026-08-30T23:02:12Z"
+    },
+    {
+        "title": "Trump e Bessent a desmontarem os globalistas",
+        "body": "Carney aposta tudo em novembro, na esperança de que os americanos desistam antes de a viragem chegar.",
+        "url": "https://observador.pt/opiniao/trump-e-bessent-a-desmontarem-os-globalistas/",
+        "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A536%3A536%3Anowe%3A18%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F11%2F23221844%2Fjorge-coutinho-de-miranda.jpg",
+        "data": "2026-08-30T23:01:51Z"
+    },
+    {
+        "title": "A declaração de Rodri após sua estreia pelo Barcelona",
+        "body": "Na última quinta-feira (27), o Barcelona venceu o Athletic Bilbao por 2 a 0, pela segunda rodada ...",
+        "url": "https://www.terra.com.br/esportes/futebol/a-declaracao-de-rodri-apos-sua-estreia-pelo-barcelona,d8cf9a99b78acfc0886be4c0a90cbd23pgxt5xsz.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/203287380-rodri.jpeg",
+        "data": "2026-08-30T22:59:16Z"
+    },
+    {
+        "title": "Kim Jong-un troca ministro da Defesa e recoloca veterano no comando militar",
+        "body": "Kim Jong-un nomeou Kim Song-gi para o Ministério da Defesa e reconduziu Pak Jong-chon à Comissão Militar Central.",
+        "url": "https://www.diariodocentrodomundo.com.br/kim-jong-un-troca-ministro-defesa-coreia-do-norte/",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-kim-jong-un-troca-ministro-defesa-coreia-do-norte-kim-jing-un-durante-discurso-em-evento-politico.jpg",
+        "data": "2026-08-30T22:42:43Z"
+    },
+    {
+        "title": "Congo. Como José Veiga se tornou \"Monsieur Afrique\"",
+        "body": "Dez anos de investigação e 2,5 mil milhões de euros de contratos públicos de um petro-Estado africano onde até avestruzes e póneis terão sido uma forma de corrupção. Eis o caso Rota do Atlântico.",
+        "url": "https://observador.pt/especiais/bunkers-na-quinta-da-marinha-25-mil-milhoes-de-euros-e-avestruzes-em-jatos-privados-como-jose-veiga-se-tornou-monsieur-afrique-no-congo/",
+        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1540%3A866%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F10123628%2F770corrupcao-co.jpg?layer=obstop:T",
+        "data": "2026-08-30T22:36:00Z"
+    },
+    {
+        "title": "Jardim admite queda no 2° tempo e critica gramado do Maracanã",
+        "body": "Técnico também lamenta chances desperdiçadas no 1° tempo após vitória sobre o Botafogo e diz que campo \"não está à altura do Flamengo\"",
+        "url": "https://www.terra.com.br/esportes/flamengo/jardim-admite-queda-no-2-tempo-e-critica-gramado-do-maracana,b7ce77090eef7529a882890437d06ee5zfddi749.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/715817855-fla013-610x400.jpg",
+        "data": "2026-08-30T22:35:20Z"
+    },
+    {
+        "title": "Cuca celebra resposta do Santos: \"Hoje começamos a dar uma revirada\"",
+        "body": "Técnico destaca reação do Peixe após goleada para o Palmeiras e valoriza sequência de resultados fora de casa no Brasileirão",
+        "url": "https://www.terra.com.br/esportes/santos/cuca-celebra-resposta-do-santos-hoje-comecamos-a-dar-uma-revirada,4429f131d185b50ec45dfea9d92a8b18dn1uxvcv.html",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1746041882-cuca-610x400.jpg",
+        "data": "2026-08-30T22:35:12Z"
+    },
+    {
         "title": "Neymar desafia Palmeiras após vitória do Santos: \"Vamos nos divertir\"",
         "body": "Camisa 10 participa do gol de Oliva, Santos vence o Corinthians por 1 a 0 e ganha confiança antes de novo clássico na Vila Belmiro",
         "url": "https://www.terra.com.br/esportes/santos/neymar-desafia-palmeiras-apos-vitoria-do-santos-vamos-nos-divertir,cd380042cc5c78a815e639685ce6c6f6tjx6o8mi.html",
@@ -138,523 +649,5 @@
         "url": "https://veja.abril.com.br/brasil/lider-de-faccao-cartel-do-sul-e-encontro-morto-em-cela-em-penitenciaria-de-brasilia/",
         "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-30-at-18.10.42.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
         "data": "2026-08-30T21:25:12Z"
-    },
-    {
-        "title": "Roberto Assaf: Flamengo vence Botafogo em placar mentiroso",
-        "body": "O 3 a 0 a favor do Rubro-Negro foi um resultado absolutamente injusto, pois o Mengo não viu a cor da bola no tempo derradeiro",
-        "url": "https://www.terra.com.br/esportes/flamengo/roberto-assaf-flamengo-vence-botafogo-em-placar-mentiroso,66419126a95de5c96ec9265e2cc17d5baemgts7t.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/854141819-fla01-2-610x400.jpg",
-        "data": "2026-08-30T21:23:12Z"
-    },
-    {
-        "title": "Nepal pediu à China sistema de alertas que nunca chegou",
-        "body": "Especialistas nepaleses queixam-se de informação insuficiente partilhada pelo vizinho. Pequim nega e diz que disponibilizou dados “em tempo útil”.",
-        "url": "https://observador.pt/2026/08/30/tres-meses-antes-da-enxurrada-nepal-pediu-a-china-criacao-de-sistema-de-alertas-que-nunca-saiu-do-papel/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A214%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F30210944%2Fgettyimages-2292592608-scaled.jpg?layer=obstop:T",
-        "data": "2026-08-30T21:20:01Z"
-    },
-    {
-        "title": "As notícias das 22h",
-        "body": "A imprensa nacional e internacional dá Santiago Gimenez e Gabriel Mec como certos na invicta. Ainda, o presidente da Ucrânia está a preparar novos encontros com os Estados Unidos.",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1855/",
-        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-        "data": "2026-08-30T21:17:11Z"
-    },
-    {
-        "title": "Santos vence o Corinthians em Itaquera e respira no Brasileirão",
-        "body": "Peixe abre vantagem com gol de Oliva e segura pressão do Timão para conquistar vitória importante no clássico",
-        "url": "https://www.terra.com.br/esportes/corinthians/santos-vence-o-corinthians-em-itaquera-e-respira-no-brasileirao,275cce54870c024687ce0f861e9b0a93htcse6lo.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/743551464-hqpd96xaaajaxu-610x400.jpg",
-        "data": "2026-08-30T21:05:15Z"
-    },
-    {
-        "title": "Google Maps muda nome de lago entre EUA e Canadá após ordem de Trump",
-        "body": "Mudança no Google Maps ocorre após Trump oficializar “Lake America” nos registros geográficos dos EUA. Canadá critica alteração",
-        "url": "https://www.metropoles.com/mundo/google-maps-muda-nome-de-lago-entre-eua-e-canada-apos-ordem-de-trump",
-        "image": "https://i.metroimg.com/Wnich8gDIH1vcWR3Ponj1hXEr40b2uaNHcUUM8a4fVE/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/lago-eua-canada-1.jpg",
-        "data": "2026-08-30T21:04:24Z"
-    },
-    {
-        "title": "João Moreira Salles apresenta ‘masterclass’ em festival de documentários",
-        "body": "Evento acontece até este domingo, 30",
-        "url": "https://veja.abril.com.br/cultura/joao-moreira-salles-apresenta-masterclass-em-festival-de-documentarios/",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2018/03/joacc83o-moreira-salles-20151001-0034.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T21:00:29Z"
-    },
-    {
-        "title": "Candidata do meme “você quer me calar?” sofre AVC e é internada em UTI",
-        "body": "Candidata Lourdes Melo, do PCO, tem 73 anos e disputa o governo do Piauí. Segundo a família, ela está lúcida, consciente e conversando",
-        "url": "https://www.metropoles.com/brasil/candidata-do-meme-voce-quer-me-calar-sofre-avc-e-e-internada-em-uti",
-        "image": "https://i.metroimg.com/TTeB-Di_7Hj-dq3H3aNiWh-fd0P6Aa_9Di9RAxV_LO0/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/candidata-do-meme-voce-quer-me-calar-sofre-avc-e-e-internada-em-uti.jpg",
-        "data": "2026-08-30T21:00:13Z"
-    },
-    {
-        "title": "Bradesco tem espaço para novo cartão entre Aeternum e Centurion",
-        "body": "Clientes de altíssimo patrimônio que ficam fora da régua do cartão ultraexclusivo da Amex formam uma oportunidade para o banco",
-        "url": "https://economia.ig.com.br/colunas/pedemilha/2026-08-30/bradesco-novo-cartao-alta-renda-aeternum.html",
-        "image": "https://i0.statig.com.br/bancodeimagens/5f/26/dm/5f26dmy29jakg2rohzyo0xjta.jpg",
-        "data": "2026-08-30T20:59:28Z"
-    },
-    {
-        "title": "Hackers invadem sites do GDF e exibem artigo com crítica a Lula",
-        "body": "Sites do Procon-DF e da Jucis-DF registraram ataques neste domingo. Mensagem de crítica a Lula trata sobre suspensão ao Discord no Brasil",
-        "url": "https://www.metropoles.com/distrito-federal/na-mira/hackers-invadem-sites-do-gdf-e-exibem-artigo-com-critica-a-lula",
-        "image": "https://i.metroimg.com/Em7JpNuFFpxAGNQCs6xwbaZsYVa7rJr1s8lPSV7E7Yo/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/whatsapp-image-2026-08-30-at-15-54-40.jpeg",
-        "data": "2026-08-30T20:46:49Z"
-    },
-    {
-        "title": "Paulo Portas questiona vantagens económicas do Estado na REN",
-        "body": "No comentário da TVI, Paulo Portas questiona a vantagem do Estado reentrar na REN com uma posição de 13,7%. Mas diz que mostra talento por ter deixado contestes chineses, americanos e europeus",
-        "url": "https://observador.pt/2026/08/30/paulo-portas-questiona-vantagens-economicas-da-entrada-do-estado-na-ren-mas-diz-que-do-ponto-geopolitico-revela-talento/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F01%2F21140218%2F154a4449.jpg?layer=obstop:T",
-        "data": "2026-08-30T20:41:36Z"
-    },
-    {
-        "title": "Grêmio x Chapecoense no Brasileirão: onde assistir ao vivo, horário e escalação",
-        "body": "Adversários do final de semana em Porto Alegre brigam ambos contra o rebaixamento, mas estão separados por 11 pontos",
-        "url": "https://www.terra.com.br/esportes/futebol/gremio-x-chapecoense-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacao,1404a1de038e99790b6ae5b5330687a4d936mj7t.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1633282086-q2t4kskwe5b5zi26votobnhzwi.jpeg",
-        "data": "2026-08-30T20:40:57Z"
-    },
-    {
-        "title": "Drones podem reduzir uso de pesticidas? Cientistas duvidam",
-        "body": "A União Europeia quer permitir aplicações aéreas mais precisas em lavouras. Pesquisadores ...",
-        "url": "https://www.terra.com.br/vida-e-estilo/drones-podem-reduzir-uso-de-pesticidas-cientistas-duvidam,c47d12e7782f8363c7be56277507d1e7jn8ds5n2.html",
-        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "data": "2026-08-30T20:40:52Z"
-    },
-    {
-        "title": "Congresso testa reaproximação Lula-Alcolumbre em esforço antes das eleições",
-        "body": "Fim da 6x1, taxa das blusinhas e PEC da Segurança estarão em votação no Senado para alavancar candidatura do petista",
-        "url": "https://www.metropoles.com/brasil/congresso-testa-reaproximacao-lula-alcolumbre-em-esforco-antes-das-eleicoes",
-        "image": "https://i.metroimg.com/u7IFLjwRm5PrlsnQNTEQp_nBsUnxk4oCTdpxISic4lA/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/os-presidentes-luiz-inacio-lula-da-silva-da-republica-davi-alcolumbre-do-senado-e-hugo-motta-da-camara-dos-deputados-fazem-declaracao-no-palacio-da-alvorada-metropoles-6-1-scaled.jpg",
-        "data": "2026-08-30T20:37:51Z"
-    },
-    {
-        "title": "Pop-up do Stray Kids na Barra: lightsticks e linha oficial SKZOO",
-        "body": "Loja de Samuel Lee, o Sam, abre na semana do Rock in Rio; empresário já trouxe ao Brasil astros como Lee Jun-ho e Kang Tae-oh",
-        "url": "https://veja.abril.com.br/coluna/giro-pelo-oriente/pop-up-do-stray-kids-na-barra-lightsticks-e-linha-oficial-skzoo/#blogposting",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/straykids.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T20:36:24Z"
-    },
-    {
-        "title": "BYD já tem 10 mil estações Flash Charging. Carregar em 9 minutos é a realidade",
-        "body": "Durante anos, a autonomia foi apontada como o principal obstáculo aos automóveis elétricos. Hoje, com muitos modelos capazes de percorrer 500, 600 ou mais quilómetros, a discussão está progressivamente a mudar para outro problema:...",
-        "url": "https://pplware.sapo.pt/motores/byd-ja-tem-10-mil-estacoes-flash-charging-carregar-em-9-minutos-e-a-realidade/",
-        "image": "https://pplware.sapo.pt/wp-content/uploads/2026/08/byd_supercharger00.webp",
-        "data": "2026-08-30T20:30:33Z"
-    },
-    {
-        "title": "Obrigatoriedade do encarregado de dados em condomínios e estruturas patrimoniais",
-        "body": "Em um ambiente em que condomínios, administradoras, holdings, fundos de investimento imobiliário e demais estruturas patrimoniais operam diariamente com dados pessoais, sistemas de vigilância, controle de acesso, biometria, cadastros de visitantes, informaçõe…",
-        "url": "https://conjur.com.br/2026-ago-30/encarregado-de-dados-em-condominios-e-estruturas-patrimoniais/",
-        "image": "https://conjur.com.br/wp-content/uploads/2023/11/lgpd-dados-pessoais-informatica-algoritmo.jpeg",
-        "data": "2026-08-30T20:24:13Z"
-    },
-    {
-        "title": "As notícias das 21h",
-        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1743/",
-        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-        "data": "2026-08-30T20:19:43Z"
-    },
-    {
-        "title": "Em aulão de concurso, Paula Belmonte defende ampliação de servidores no GDF",
-        "body": "Candidata visitou cursinhos preparatórios para o concurso da Secretaria de Desenvolvimento Social e também prometeu convocação da categoria",
-        "url": "https://www.metropoles.com/distrito-federal/em-aulao-de-concurso-paula-belmonte-defende-ampliacao-de-servidores-no-gdf",
-        "image": "https://i.metroimg.com/hyGvfC_D022eSQ9AUC5kr_FhLTbzTmhyFy9rmFqoltc/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/paula-belmonte-sedes.jpeg",
-        "data": "2026-08-30T20:14:45Z"
-    },
-    {
-        "title": "Desvalorização do dólar reforça visão otimista para títulos de emergentes, dizem gestores",
-        "body": "Um ano excepcional para os títulos de mercados emergentes tende a ficar ainda melhor, à medida que o retorno da chamada “aposta na desvalorização do dólar” amplia os fluxos de recursos para essa classe de ativos, dizem gestores de fundos.\nOs títulos de mercad…",
-        "url": "https://valor.globo.com/financas/noticia/2026/08/30/desvalorizacao-do-dolar-reforca-visao-otimista-para-titulos-de-emergentes-dizem-gestores.ghtml",
-        "image": "https://s2-valor.glbimg.com/hEVDmjHkBqmQIO2xEkb19TB-iso=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/l/g/vf9PUJT8i8W8TDA6VAYA/461311209.jpg",
-        "data": "2026-08-30T20:10:49Z"
-    },
-    {
-        "title": "Jorge Sampaoli é demitido do lanterna Talleres na Argentina após somente sete jogos no comando",
-        "body": "Técnico havia sido demitido do Atlético-MG em fevereiro; no Brasil, também já passou por Santos e Flamengo",
-        "url": "https://www.terra.com.br/esportes/futebol/jorge-sampaoli-e-demitido-do-lanterna-talleres-na-argentina-apos-somente-sete-jogos-no-comando,e73cf4069c35be57efdf23e8eeca41d94n60zbnf.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1640954219-kol3bw22kblj3fb6nnp7jkwfbq.jpg",
-        "data": "2026-08-30T20:06:23Z"
-    },
-    {
-        "title": "Suspense com Robert De Niro e drama com Daniel Day-Lewis: as estreias da semana no streaming",
-        "body": "Netflix e Prime Video recebem produções com nomes de peso, enquanto novas temporadas e episódios chegam às plataformas",
-        "url": "https://www.terra.com.br/diversao/entre-telas/series/suspense-com-robert-de-niro-e-drama-com-daniel-day-lewis-as-estreias-da-semana-no-streaming,d465e4fe2265e1c3c119a17692f2e85aew5gg91k.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1708592148-fg3m2djpvvfpvljjmyzupdx4yi.jpg",
-        "data": "2026-08-30T20:06:11Z"
-    },
-    {
-        "title": "Ao lado de ministro de Bukele, Flávio diz que “tem pouco preso no Brasil”",
-        "body": "Senador teve uma reunião com o ministro da Justiça e Segurança Pública de El Salvador, Gustavo Villatoro, em São Paulo",
-        "url": "https://www.metropoles.com/brasil/ao-lado-de-ministro-de-bukele-flavio-diz-que-tem-pouco-preso-no-brasil",
-        "image": "https://i.metroimg.com/XgG58ND048Z61WmtlIgDS3GQm3witoCsMJss3bYlTg4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/ch-06734.jpg",
-        "data": "2026-08-30T20:04:44Z"
-    },
-    {
-        "title": "José Carlos Vasconcellos \"acelera\" em festa de aniversário no autódromo",
-        "body": "O empresário José Carlos Vasconcellos celebrou a chegada dos 56 anos com um animado churrasco no Autódromo Internacional de Brasília",
-        "url": "https://www.metropoles.com/colunas/claudia-meireles/jose-carlos-vasconcellos-acelera-em-festa-de-aniversario-no-autodromo",
-        "image": "https://i.metroimg.com/HQ5_mTPPdwrbBcDVaPqpXmKxbZ-kYN5Jzq6n278eMqs/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/280826-gl-churrasco-de-aniversario-de-jose-carlos-vasconcellos-023.jpg",
-        "data": "2026-08-30T19:58:54Z"
-    },
-    {
-        "title": "GTA 6 terá 'mundo mais realista e reativo do que antes'",
-        "body": "Em uma entrevista com líderes da Rockstar Games, a produtora deixou claro que o jogo passa a ser mais interativo",
-        "url": "https://rollingstone.com.br/guia-game/gta-6-tera-mundo-mais-realista-e-reativo-do-que-antes/",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1004417983-gta-6-rockstar-rolling-stone-2.jpg",
-        "data": "2026-08-30T19:55:49Z"
-    },
-    {
-        "title": "Flávio Bolsonaro defende mais prisões após encontro com ministro de Bukele",
-        "body": "Candidato do PL à Presidência, Flávio Bolsonaro propôs criar 500 mil vagas em presídios e citou cortes de despesas para financiar o plano.",
-        "url": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-defende-mais-prisoes-ministro-bukele/",
-        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/flavio-bolsonaro-webp.webp",
-        "data": "2026-08-30T19:55:43Z"
-    },
-    {
-        "title": "Ulisses e Macondo nas telas",
-        "body": "As coincidências existem e ainda podem dizer alguma coisa nos dias atuais. Quem foi buscar recentemente a próxima atração para assistir noAs coincidências existem e ainda podem dizer alguma coisa nos dias atuais. Quem foi buscar recentemente a próxima atração…",
-        "url": "https://www.revistabula.com/166969-a-odisseia-cem-anos-solidao-adaptacoes/",
-        "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/08/Macondo.webp",
-        "data": "2026-08-30T19:55:19Z"
-    },
-    {
-        "title": "Confúcio, pensador chinês: “Não faça aos outros o que não deseja para si mesmo”",
-        "body": "A regra de ouro de Confúcio propõe um limite simples para a conduta. Antes de agir, a pessoa deve pensar se aceitaria receber o mesmo tratamento.\nO post Confúcio, pensador chinês: “Não faça aos outros o que não deseja para si mesmo” apareceu primeiro em Catra…",
-        "url": "https://catracalivre.com.br/noticias/confucio-pensador-chines-nao-faca-aos-outros-o-que-nao-deseja-para-si-mesmo/",
-        "image": "https://catracalivre.com.br/i/7lgQ8WOhrAl6a57N6ltbaRMO9myp9OPp5BWLeLpPgHw/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9lbGRlci13YWxraW5nLXdpdGgtZGlzY2lwbGUtZ2FyZGVuLTIwMjYwODMwMTMxOC5qcGVn",
-        "data": "2026-08-30T19:52:41Z"
-    },
-    {
-        "title": "J.J. Abrams fez uma carta de amor a Spielberg e arrecadou R$ 1,35 bilhão; o filme está na Netflix",
-        "body": "A melhor cena de “Super 8” não tem extraterrestres, soldados ou vagões voando pelos ares. Um punhado de adolescentes grava um filmeA melhor cena de “Super 8” não tem extraterrestres, soldados ou vagões voando pelos ares. Um punhado de adolescentes grava um fi…",
-        "url": "https://www.revistabula.com/166973-super-8/",
-        "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/08/Super-8-2.webp",
-        "data": "2026-08-30T19:49:54Z"
-    },
-    {
-        "title": "Prejuízos da crise migratória em Ceuta sobem para 33 milhões",
-        "body": "A quebra do consumo, a ausência de visitantes e a perceção de insegurança levaram a atividade económica para níveis mínimos durante todo o mês de agosto.",
-        "url": "https://observador.pt/2026/08/30/prejuizos-diretos-da-crise-migratoria-em-ceuta-sobem-para-33-milhoes/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1580%3A888%3Anowe%3A0%3A83%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F30200932%2F47546346.jpg?layer=obstop:T",
-        "data": "2026-08-30T19:45:31Z"
-    },
-    {
-        "title": "Raimundo critica \"propaganda\" de Montenegro",
-        "body": "Paulo Raimundo diz que Montenegro na Universidade de Verão não bateu o \"hit\" da compra da REN para baixar os preços da luz. Mas alerta para o anúncio da alteração da carreira docente dos professores.",
-        "url": "https://observador.pt/2026/08/30/raimundo-critica-propaganda-de-montenegro-que-nas-entrelinhas-se-prepara-para-atacar-professores/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F27165959%2F47671717.jpg?layer=obstop:T",
-        "data": "2026-08-30T19:40:19Z"
-    },
-    {
-        "title": "Smartwatch Samsung em promoção: confira as melhores opções na Amazon",
-        "body": "Se você está pensando em investir em um smartwatch, este é um bom momento para pesquisar. Separamos duas opções da Samsung disponíveis na Amazon — uma mais compacta e acessível, outra com tecnologia de ponta — para facilitar a sua escolha.\nO post Smartwatch S…",
-        "url": "https://olhardigital.com.br/2026/08/30/reviews/smartwatch-samsung-em-promocao-confira-as-melhores-opcoes-na-amazon/",
-        "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/hero-smartwatch-29.jpg",
-        "data": "2026-08-30T19:40:00Z"
-    },
-    {
-        "title": "Carga imediata em implantes: o que é, quem pode fazer e vantagens",
-        "body": "Procedimento combina planejamento digital, instalação de implantes e prótese fixa em um curto ...",
-        "url": "https://www.terra.com.br/vida-e-estilo/saude/carga-imediata-em-implantes-o-que-e-quem-pode-fazer-e-vantagens,9b57c61ffae123e4be33074c866928081nhap26k.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/83430400-lesly-juarez-1ahgngkuhr0-unsplash-scaled.jpg",
-        "data": "2026-08-30T19:38:08Z"
-    },
-    {
-        "title": "Heráclito, filósofo grego: “A permanência que desejamos encontrar na vida costuma ser maior do que aquela que a realidade pode oferecer”",
-        "body": "A filosofia de Heráclito sobre o devir ensina que a transformação contínua faz parte da vida, auxiliando na aceitação das mudanças reais.\nO post Heráclito, filósofo grego: “A permanência que desejamos encontrar na vida costuma ser maior do que aquela que a re…",
-        "url": "https://catracalivre.com.br/noticias/heraclito-filosofo-grego-a-permanencia-que-desejamos-encontrar-na-vida-costuma-ser-maior-do-que-aquela-que-a-realidade-pode-oferecer/",
-        "image": "https://catracalivre.com.br/i/GhKqKWUyBcepZRTQwB1yV-f_uHopshW5Y1lqBBO-jM0/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9oZXJhY2xpdHVzLW9ic2VydmluZy1mbG93aW5nLXJpdi0yMDI2MDgyOTE5NDAuanBlZw",
-        "data": "2026-08-30T19:36:49Z"
-    },
-    {
-        "title": "Petista se irrita com ato de ACM Neto e diz que mulher não pode ser usada como estratégia eleitoral",
-        "body": "Para Ivoneide Caetano, a exposição de corpos femininos em campanhas precisa ser repudiada e representa uma visão ultrapassada sobre as mulheres",
-        "url": "https://veja.abril.com.br/politica/petista-se-irrita-com-ato-de-acm-neto-e-diz-que-mulher-nao-pode-ser-usada-como-estrategia-eleitoral/",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-30-at-22.44.55.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T19:35:34Z"
-    },
-    {
-        "title": "TSE debate se presume dolo para condenação por importunação sexual",
-        "body": "Está em debate no Tribunal Superior Eleitoral a possibilidade de presumir o dolo da pessoa que é acusada de importunação sexual por ter praticado ato libidinoso. O tema foi levantado em voto do ministro Dias Toffoli, após divergência inaugurada pelo ministro …",
-        "url": "https://conjur.com.br/2026-ago-30/tse-debate-se-presume-dolo-para-condenacao-por-importunacao-sexual/",
-        "image": "https://conjur.com.br/wp-content/uploads/2026/08/55460581597_d7cf7c76ff_k.jpg",
-        "data": "2026-08-30T19:34:15Z"
-    },
-    {
-        "title": "MMA cria AI4M Summit Brasil para discutir uso de inteligência artificial no marketing",
-        "body": "Evento reúne especialistas e empresas que já usam inteligência artificial em estratégia, mídia, criatividade e produtos",
-        "url": "https://exame.com/marketing/mma-cria-ai4m-summit-brasil-para-discutir-uso-de-inteligencia-artificial-no-marketing/",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/08/Inteligencia-artificial-marketing.jpg",
-        "data": "2026-08-30T19:33:21Z"
-    },
-    {
-        "title": "Como o GPS, criado para a guerra, moldou o mundo moderno",
-        "body": "Ferramenta está entrelaçada a inúmeros aspectos da vida cotidiana, tanto em conflitos quanto em situações pacíficas.",
-        "url": "https://www.bbc.com/portuguese/articles/c62m4znn84lo",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/30e9/live/0e1d8f10-97e1-11f1-a76b-f1c27c51f3da.jpg",
-        "data": "2026-08-30T19:27:04Z"
-    },
-    {
-        "title": "O Wikiota: o romance sobre a era em que ter seguidores passou a valer mais que ter ideias",
-        "body": "“O Wikiota” é o segundo romance de Ademir Luiz. Sátira de uma geração, a obra já mereceu comentários elogiosos de autores de“O Wikiota” é o segundo romance de Ademir Luiz. Sátira de uma geração, a obra já mereceu comentários elogiosos de autores de",
-        "url": "https://www.revistabula.com/166964-o-wikiota-ademir-luiz-era-digital/",
-        "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/08/Ademir-Luiz-1.webp",
-        "data": "2026-08-30T19:26:07Z"
-    },
-    {
-        "title": "Sindicato elogia ex-gestor da TAP para pedir reflexão",
-        "body": "O sindicato dos pilotos elogiou ex-gestor da TAP e pede que Estado faça uma reflexão sobre a dificuldade de reter quadros mais qualificados.",
-        "url": "https://observador.pt/2026/08/30/sindicato-dos-pilotos-elogia-ex-gestor-da-tap-e-pede-reflexao-ao-estado-portugal-nao-pode-revelar-dificuldade-em-reter-quadros/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1280%3A719%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F03190617%2Fmariochaves-escuro.webp?layer=obstop:T",
-        "data": "2026-08-30T19:22:43Z"
-    },
-    {
-        "title": "Melhores jogos de Xbox em promoção na Amazon: do clássico ao cooperativo",
-        "body": "Se você é fã do universo Xbox e está em busca de boas pedidas para expandir a biblioteca, separamos três títulos que valem muito a atenção. De aventuras solo a experiências cooperativas intensas, há opções para diferentes gostos — e todas estão disponíveis na…",
-        "url": "https://olhardigital.com.br/2026/08/30/reviews/melhores-jogos-de-xbox-em-promocao-na-amazon-do-classico-ao-cooperativo/",
-        "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/hero-jogos-xbox-29.jpg",
-        "data": "2026-08-30T19:20:00Z"
-    },
-    {
-        "title": "Rockstar confirma: GTA 6 chegará sem microtransações nem IA no lançamento",
-        "body": "GTA 6 chega sem microtransações nem IA generativa no lançamento, segundo a Rockstar. Veja o que isso muda no jogo.\nO post Rockstar confirma: GTA 6 chegará sem microtransações nem IA no lançamento apareceu primeiro em Blog do Edivaldo - Informações e Notícias …",
-        "url": "https://www.edivaldobrito.com.br/gta-6-chegara-sem-microtransacoes-nem-ia/",
-        "image": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/08/rockstar-confirma-gta-6-chega-sem-microtransacoes-nem-ia-no-lancamento.webp",
-        "data": "2026-08-30T19:15:47Z"
-    },
-    {
-        "title": "As notícias das 20h",
-        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2039/",
-        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-        "data": "2026-08-30T19:12:47Z"
-    },
-    {
-        "title": "Google Maps se curva a Trump e rebatiza Lago Ontário nos EUA",
-        "body": "A Casa Branca comemorou a exibição de “Lago América” para usuários dos Estados Unidos no Google Maps após ordem assinada por Donald Trump.",
-        "url": "https://www.diariodocentrodomundo.com.br/google-maps-se-curva-a-trump-e-rebatiza-lago-ontario-nos-eua/",
-        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/afp-20260827-c6nn3mm-v8-midres-776552802.jpg",
-        "data": "2026-08-30T19:11:42Z"
-    },
-    {
-        "title": "O plano da China para dominar nova era dos robôs industriais",
-        "body": "China amplia automação nas fábricas e forma jovens em robótica para enfrentar o envelhecimento da população e disputar tecnologia com os EUA.",
-        "url": "https://www.diariodocentrodomundo.com.br/china-plano-20-bilhoes-robotica-inteligencia-artificial/",
-        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-principal-china-plano-20-bilhoes-robotica-inteligencia-artificial-17880969876a9431dbe904e_1788096987_3x2_rt.jpg",
-        "data": "2026-08-30T19:02:58Z"
-    },
-    {
-        "title": "Trump vai denunciar jornalista da NBC por cobertura de eleiç",
-        "body": "Kristen Welker é a jornalista alvo do ataque e da queixa de Donald Trump, a propósito das eleições intercalares que decorrerão em novembro.",
-        "url": "https://observador.pt/2026/08/30/trump-vai-denunciar-jornalista-da-nbc-por-cobertura-das-eleicoes-intercalares/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F10044224%2F47423111.jpg?layer=obstop:T",
-        "data": "2026-08-30T19:02:14Z"
-    },
-    {
-        "title": "A educação e a pobreza dos candidatos à presidência",
-        "body": "Planos de governo prometem mudar a educação, mas o que dizem as evidências sobre as propostas? Uma análise revela um contraste curioso.",
-        "url": "https://www.terra.com.br/vida-e-estilo/saude/a-educacao-e-a-pobreza-dos-candidatos-a-presidencia,12b252e6da3d0528aec5e5f2ca988ffcrmbz3y46.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1211938615-educacao.jpg",
-        "data": "2026-08-30T19:01:56Z"
-    },
-    {
-        "title": "Os espaços e ativações que prometem atrair público atrás de brindes no Rock in Rio",
-        "body": "Festival terá mais de 100 experiências de marcas e cerca de 1 milhão de brindes espalhados pela Cidade do Rock",
-        "url": "https://veja.abril.com.br/cultura/os-espacos-e-ativacoes-que-prometem-atrair-publico-atras-de-brindes-no-rock-in-rio/",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/Moriva_Coletiva_18082026_@alexwoloch-3325.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T19:00:48Z"
-    },
-    {
-        "title": "GTA VI, Spider-Man 2 e mais: selecionamos os melhores jogos de PS5 em promoção na Amazon",
-        "body": "Se você tem um PlayStation 5 e está de olho em títulos para expandir a biblioteca, este é o momento certo. Reunimos três jogos em destaque na Amazon que valem a atenção — de blockbusters da Rockstar a aventuras da Marvel. Confira a seleção e aproveite. Grand …",
-        "url": "https://olhardigital.com.br/2026/08/30/reviews/gta-vi-spider-man-2-e-mais-selecionamos-os-melhores-jogos-de-ps5-em-promocao-na-amazon/",
-        "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/hero-jogos-ps5-29.jpg",
-        "data": "2026-08-30T19:00:00Z"
-    },
-    {
-        "title": "Amazônia não pode ser vista como fonte de recursos, diz líder indígena",
-        "body": "Em 20 de agosto, o Tribunal Internacional pelos Direitos da Natureza, uma organização da sociedade civil que busca fazer recomendações sobre proteção e restauração ambiental, declarou a Amazônia Sujeito Integral de Direitos e Zona de Exclusão Total de Combust…",
-        "url": "https://valor.globo.com/brasil/noticia/2026/08/30/amazonia-nao-pode-ser-vista-como-fonte-de-recursos-diz-lider-indigena.ghtml",
-        "image": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-        "data": "2026-08-30T18:57:00Z"
-    },
-    {
-        "title": "Luana Piovani volta a criticar Ana Castela: “Pacto com os coisa ruim”",
-        "body": "A atriz Luana Piovani detonou mais uma vez a cantora Ana Castela após a famosa adaptar o Rap da Felicidade em uma de suas músicas",
-        "url": "https://www.metropoles.com/colunas/fabia-oliveira/luana-piovani-volta-a-criticar-ana-castela-pacto-com-os-coisa-ruim",
-        "image": "https://i.metroimg.com/RWiND77mFhjhWCDZenORPA6MOqrlrF0js5dYlQbpiTk/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/luana-ana-castela-1.jpg",
-        "data": "2026-08-30T18:56:27Z"
-    },
-    {
-        "title": "BE quer duplicar \"imposto Mortágua\" e lançar \"travão CGD\"",
-        "body": "Na rentrée do Bloco de Esquerda, o seu líder fez duas propostas: duplicar o imposto adicional sobre o IMI e garantir que a Caixa não repercute os aumentos das taxas de juro do BCE nos seus créditos.",
-        "url": "https://observador.pt/2026/08/30/be-quer-cgd-a-travar-aumentos-no-credito-a-habitacao-e-duplicar-imposto-mortagua/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F30184723%2F47686170.jpg?layer=obstop:T",
-        "data": "2026-08-30T18:49:57Z"
-    },
-    {
-        "title": "Por que as paradas do orgulho gay estão sob ataque — dentro e fora da comunidade LGBT",
-        "body": "Algumas das grandes empresas que costumavam apoiar as paradas do orgulho gay no Reino Unido agora demonstram receio em associarem o nome ao evento. O que mudou?",
-        "url": "https://www.bbc.com/portuguese/articles/c780d3e01y9o",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b904/live/cce9bb90-a21c-11f1-8d29-591eef351b23.jpg",
-        "data": "2026-08-30T18:45:12Z"
-    },
-    {
-        "title": "137 mil pessoas desapareceram na Colômbia desde 1921",
-        "body": "Pelo menos 137 mil pessoas desapareceram devido ao conflito armado na Colômbia desde 1921. Neste domingo assinala-se o Dia Internacional das Vítimas de Desaparecimentos Forçados.",
-        "url": "https://observador.pt/2026/08/30/pelo-menos-137-mil-pessoas-desapareceram-devido-ao-conflito-armado-na-colombia-desde-1921/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A110%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F30191313%2F47686629.jpg?layer=obstop:T",
-        "data": "2026-08-30T18:44:37Z"
-    },
-    {
-        "title": "Antes dos trens, cidades vizinhas podiam ter horas diferentes e um relógio inglês ainda possui dois ponteiros de minutos para lembrar essa confusão",
-        "body": "Veja como os trens obrigaram cidades britânicas a abandonar horários solares locais e adotar uma referência comum baseada em Greenwich.\nO post Antes dos trens, cidades vizinhas podiam ter horas diferentes e um relógio inglês ainda possui dois ponteiros de min…",
-        "url": "https://catracalivre.com.br/noticias/antes-dos-trens-cidades-vizinhas-podiam-ter-horas-diferentes-e-um-relogio-ingles-ainda-possui-dois-ponteiros-de-minutos-para-lembrar-essa-confusao-2/",
-        "image": "https://catracalivre.com.br/i/xxPMXIwA9yEEhQp99Qo8fMIdPu8-pa40vs9SMFWgYKA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9leGNoYW5nZS1jbG9jay1kaXNwbGF5aW5nLWR1YWwtdGltZS0yMDI2MDgyOTIyMjUuanBlZw",
-        "data": "2026-08-30T18:39:07Z"
-    },
-    {
-        "title": "Exigidas respostas sobre jornalistas desaparecidos",
-        "body": "Ibraimo Mbaruco, jornalista e locutor da Rádio Comunitária de Palma, desapareceu a 7 de abril de 2020. Arlindo Chissale, editor do portal Pinnacle News, desapareceu a 7 de janeiro de 2025.",
-        "url": "https://observador.pt/2026/08/30/direitos-humanos-pedem-respostas-sobre-jornalistas-desaparecidos-em-mocambique/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F05%2F07212812%2F28720178.jpg?layer=obstop:T",
-        "data": "2026-08-30T18:38:37Z"
-    },
-    {
-        "title": "Talleres demite Sampaoli após sete jogos; veja nota",
-        "body": "Treinador deixa a equipe após o empate sem gols com o Córdoba, no último sábado (29), e na lanterna do Grupo A do Torneio Clausura",
-        "url": "https://www.terra.com.br/esportes/futebol/internacional/talleres-demite-sampaoli-apos-sete-jogos-veja-nota,f39323c9b477d36038e3d5a834a22672wia3tvtt.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/961887384-jorge-sampaoli-610x400.jpg",
-        "data": "2026-08-30T18:38:11Z"
-    },
-    {
-        "title": "Equipes de resgate enfrentam enchentes e escombros enquanto número de mortos no desastre no Himalaia se aproxima de 800",
-        "body": "Equipes de resgate no Nepal e na China correram ‌no domingo para localizar milhares de pessoas ...",
-        "url": "https://www.terra.com.br/noticias/mundo/equipes-de-resgate-enfrentam-enchentes-e-escombros-enquanto-numero-de-mortos-no-desastre-no-himalaia-se-aproxima-de-800,423681b3cd7a588e0e5f2198cbbd7291k59mcs2n.html",
-        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "data": "2026-08-30T18:37:01Z"
-    },
-    {
-        "title": "Islândia rejeita retomar negociações de adesão à União Europeia",
-        "body": "O país, com apenas 400 mil habitantes, solicitou a adesão à UE após a crise financeira de 2009",
-        "url": "https://veja.abril.com.br/economia/islandia-rejeita-retomar-negociacoes-de-adesao-a-uniao-europeia/",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2021/07/73371-004-76F52424.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T18:35:00Z"
-    },
-    {
-        "title": "Lula pede inelegibilidade de Flávio ao TSE por suposto abuso econômico na Festa de Barretos",
-        "body": "A campanha do presidente Luiz Inácio Lula da Silva (PT) pediu neste sábado, 29, a ...",
-        "url": "https://www.terra.com.br/noticias/brasil/politica/lula-pede-inelegibilidade-de-flavio-ao-tse-por-suposto-abuso-economico-na-festa-de-barretos,034a6730f3188dd77c428b4617af4ecefk9au5bi.html",
-        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "data": "2026-08-30T18:34:57Z"
-    },
-    {
-        "title": "Perfis oficiais de Maduro publicam fotos dele preso nos EUA: “Seguimos fortes”",
-        "body": "Perfis oficiais de Nicolás Maduro publicaram duas imagens do ex-presidente venezuelano no Centro de Detenção Metropolitano do Brooklyn, em Nova York.",
-        "url": "https://www.diariodocentrodomundo.com.br/maduro-fotos-prisao-eua-mensagem-seguiremos-fortes/",
-        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/08/imagem-publicada-por-perfil-oficial-de-nicolas-maduro-mostra-ex-presidente-em-prisao-dos-eua-1788102979889_v2_900x506-jpg.webp",
-        "data": "2026-08-30T18:34:47Z"
-    },
-    {
-        "title": "Parecia algo saído do ‘Saturday Night Live’, ironiza premier de Ontário sobre Trump mudar nome de lago",
-        "body": "Doug Ford, primeiro-ministro da província de Ontário, no Canadá, ironizou o decreto do presidente dos Estados Unidos, Donald Trump, para mudar o nome do Lago Ontário, na divisa entre os países, para \"Lago América\".\n\"Simplesmente não vejo o propósito. É totalm…",
-        "url": "https://valor.globo.com/mundo/noticia/2026/08/30/parecia-algo-saido-do-saturday-night-live-ironiza-premier-de-ontario-sobre-trump-mudar-nome-de-lago.ghtml",
-        "image": "https://s2-valor.glbimg.com/uhKzwybpjXLfnPpHVqquDdy0rbM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/f/T/LGFWu2S7u0YnGCWv155g/ap26241731253720.jpg",
-        "data": "2026-08-30T18:33:11Z"
-    },
-    {
-        "title": "Dica: como saber que plataformas têm acesso à sua conta Google e como removê-las",
-        "body": "A sua conta Google pode estar associada a várias plataformas e aplicações, algumas das quais poderá já não utilizar, pelo que é importante saber quais têm acesso aos seus dados e remover as ligações...",
-        "url": "https://pplware.sapo.pt/truques-dicas/dica-como-saber-que-plataformas-tem-acesso-a-sua-conta-google-e-como-remove-las/",
-        "image": "https://pplware.sapo.pt/wp-content/uploads/2025/12/google.webp",
-        "data": "2026-08-30T18:30:54Z"
-    },
-    {
-        "title": "Dia dos Afrodescendentes: entenda por que a data reforça a luta contra o racismo",
-        "body": "Celebrado em 31 de agosto, marco internacional reconhece contribuições históricas da população afrodescendente e chama atenção para desigualdades que ainda persistem",
-        "url": "https://www.terra.com.br/vida-e-estilo/dia-dos-afrodescendentes-entenda-por-que-a-data-reforca-a-luta-contra-o-racismo,17ba56f738b378f74ab8ed19922ccc3bybno0xgk.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1061152856-capa-bons-fluidos-14-20.jpg",
-        "data": "2026-08-30T18:28:54Z"
-    },
-    {
-        "title": "Tom Cruise troca armas por espadas em épico indicado a 4 Oscars que está na Netflix",
-        "body": "Nathan Algren já está derrotado antes de pôr os pés no Japão. As medalhas que carrega pertencem a um homem que eleNathan Algren já está derrotado antes de pôr os pés no Japão. As medalhas que carrega pertencem a um homem que ele",
-        "url": "https://www.revistabula.com/166962-o-ultimo-samurai/",
-        "image": "https://www.revistabula.com/wp/wp-content/uploads/2026/06/O-ultimo-Samurai-1.webp",
-        "data": "2026-08-30T18:28:51Z"
-    },
-    {
-        "title": "Bahia Vence Ba-Vi 508 por 2 a 0 e Se Aproxima do G-6",
-        "body": "Com gols de Alejo Veliz e Jean Lucas, Esquadrão chega aos 37 pontos antes de receber o Internacional na Arena Fonte Nova.",
-        "url": "https://www.terra.com.br/parceiros/woo-magazine/bahia-vence-ba-vi-508-por-2-a-0-e-se-aproxima-do-g-6,bcaf038a3f107b466d75b96fc6b1b96f5yxwdyje.html",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/30/1106402594-ronaldo-goleiro-1024x576.jpg",
-        "data": "2026-08-30T18:28:39Z"
-    },
-    {
-        "title": "Quem controla o Sicx? Integridade e governança no Decreto nº 13.106/26",
-        "body": "O Sistema de Compras Expressas promete acelerar contratações de bens e serviços comuns padronizados. Mas sua inovação mais relevante talvez não esteja na eficiência das aquisições: o Sicx desloca parte da confiança depositada no procedimento para a plataforma…",
-        "url": "https://conjur.com.br/2026-ago-30/quem-controla-o-sicx-integridade-e-governanca-no-decreto-no-13-106-2026/",
-        "image": "https://conjur.com.br/wp-content/uploads/2026/05/opiniao-2.jpg",
-        "data": "2026-08-30T18:21:41Z"
-    },
-    {
-        "title": "Uma febre por bicicletas foi tão grande nos anos 1890 que mudou roupas, namoro, mobilidade e até a forma como mulheres ocupavam as ruas",
-        "body": "Entenda como a febre da bicicleta nos anos de 1890 ampliou a mobilidade feminina, mudou roupas, costumes sociais e formas de convivência.\nO post Uma febre por bicicletas foi tão grande nos anos 1890 que mudou roupas, namoro, mobilidade e até a forma como mulh…",
-        "url": "https://catracalivre.com.br/noticias/uma-febre-por-bicicletas-foi-tao-grande-nos-anos-1890-que-mudou-roupas-namoro-mobilidade-e-ate-a-forma-como-mulheres-ocupavam-as-ruas/",
-        "image": "https://catracalivre.com.br/i/cLXoTeZKySfzEjWgjdMjRC7m6Ffo7YYs-MED7peTg2I/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC93b21hbi1yaWRpbmctYmljeWNsZS1pbi1jaXR5LTIwMjYwODI5MjIyNS5qcGVn",
-        "data": "2026-08-30T18:21:05Z"
-    },
-    {
-        "title": "Aviões da Embraer passam ‘raspando’ em estádio lotado; veja vídeo",
-        "body": "O voo rasante foi previamente programado e integrou a programação que antecedeu o confronto entre as duas seleções de rugby",
-        "url": "https://veja.abril.com.br/mundo/avioes-da-embraer-passam-raspando-em-estadio-lotado-veja-video/",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/Avioes-embraer.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-        "data": "2026-08-30T18:20:49Z"
-    },
-    {
-        "title": "Sinal caindo? Veja uma seleção de roteadores Wi-Fi em promoção na Amazon",
-        "body": "Seja para trabalhar em home office, jogar online ou simplesmente navegar sem travamentos, um bom roteador faz toda a diferença na qualidade da conexão. Separamos três opções em oferta na Amazon que cobrem desde quem quer melhorar a cobertura da casa com tecno…",
-        "url": "https://olhardigital.com.br/2026/08/30/reviews/sinal-caindo-veja-uma-selecao-de-roteadores-wi-fi-em-promocao-na-amazon/",
-        "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/hero-roteadores-wi-fi-29.jpg",
-        "data": "2026-08-30T18:20:00Z"
-    },
-    {
-        "title": "Moscas, algas e a garrafa mais leve. O que nasceu com o PRR",
-        "body": "Com as agendas mobilizadoras do PRR surgiram mais de 1200 novos produtos e serviços. Em alguns casos houve ambição a mais e restam dúvidas sobre o que vai ser dos projetos agora que o PRR acabou.",
-        "url": "https://observador.pt/especiais/o-reino-das-moscas-a-garrafa-mais-leve-do-mundo-e-as-algas-na-maionese-o-que-nasceu-com-o-dinheiro-do-prr/",
-        "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1540%3A866%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F28174011%2F770prr-capa.jpg?layer=obstop:T",
-        "data": "2026-08-30T18:16:27Z"
-    },
-    {
-        "title": "As notícias das 19h",
-        "body": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2156/",
-        "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-        "data": "2026-08-30T18:15:17Z"
-    },
-    {
-        "title": "Na Sibéria, a tundra está se abrindo em crateras explosivas e cientistas esperam mais eventos à medida que o permafrost aquece",
-        "body": "O degelo do permafrost na Sibéria provoca variações de pressão e liberação de metano, gerando crateras explosivas profundas na tundra polar.\nO post Na Sibéria, a tundra está se abrindo em crateras explosivas e cientistas esperam mais eventos à medida que o pe…",
-        "url": "https://catracalivre.com.br/noticias/na-siberia-a-tundra-esta-se-abrindo-em-crateras-explosivas-e-cientistas-esperam-mais-eventos-a-medida-que-o-permafrost-aquece/",
-        "image": "https://catracalivre.com.br/i/Cb4xfa48gfeMBqiRjjWMlQgjw0Bnh6cSjELlZGHqA2Y/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOC9jaGF0Z3B0LWltYWdlLTMwLWRlLWFnby1kZS0yMDI2LTAzLTQ5LTE3LmpwZw",
-        "data": "2026-08-30T18:13:05Z"
-    },
-    {
-        "title": "AB 1856 avança na Califórnia e mantém isenção ao Linux",
-        "body": "AB 1856 avança na Califórnia e preserva a isenção ao Linux nas novas regras de verificação etária do estado.\nO post AB 1856 avança na Califórnia e mantém isenção ao Linux apareceu primeiro em Blog do Edivaldo - Informações e Notícias sobre Linux.",
-        "url": "https://www.edivaldobrito.com.br/ab-1856-avanca-na-california/",
-        "image": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/08/ab-1856-avanca-na-california-e-mantem-isencao-ao-linux.webp",
-        "data": "2026-08-30T18:11:18Z"
-    },
-    {
-        "title": "Paquistão diz que reunião inaugural do comitê de defesa será realizada em Istambul",
-        "body": "A ‌reunião inaugural do Comitê Estratégico ​de Política e ​Defesa será realizada em Istambul ⁠na ...",
-        "url": "https://www.terra.com.br/noticias/mundo/paquistao-diz-que-reuniao-inaugural-do-comite-de-defesa-sera-realizada-em-istambul,1038a1925e63d03e598fcd5ca8dea593828d4dr6.html",
-        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "data": "2026-08-30T18:09:35Z"
     }
 ]
